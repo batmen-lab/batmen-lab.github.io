@@ -1,0 +1,20 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+#{$icon} {
+  display: inline;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  #{$icon}:first-child {
+    color: $light-accent;
+    margin-right: 1em;
+  }
+}

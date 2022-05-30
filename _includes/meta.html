@@ -1,0 +1,34 @@
+{% assign title = "" | split: "," %}
+{% if site.title %}
+  {% assign title = title | push: site.title %}
+{% endif %}
+{% if page.title %}
+  {% assign title = title | push: page.title %}
+{% endif %}
+{% assign title = title | join: " - " %}
+
+<title>{{ title }}</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- https://metatags.io/ -->
+<meta name="title" content="{{ title }}" />
+<meta name="description" content="{{ page.description | default: site.description }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ site.location }}" />
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:description" content="{{ page.description | default: site.description }}" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="{{ site.location }}" />
+<meta property="twitter:title" content="{{ title }}" />
+<meta property="twitter:description" content="{{ page.description | default: site.description }}" />
+
+<!-- RSS -->
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="{{ '/feed.xml' | absolute_url }}"
+/>
+
+<!-- https://developers.google.com/web/fundamentals/native-hardware/click-to-call#disable_auto-detection_when_necessary -->
+<meta name="format-detection" content="telephone=no" />
