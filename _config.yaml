@@ -12,7 +12,7 @@ baseurl: ""
 # site social media and other links
 links:
   email: yanglu@uwaterloo.ca
-  google-scholar: https://scholar.google.com/citations?user=C4CLJQgAAAAJ
+  google-scholar: C4CLJQgAAAAJ
   github: https://github.com/batmen-lab
 
 ### advanced settings
