@@ -25,9 +25,9 @@ We are an interdisciplinary team!
 
 ## Join
 
-We are always looking for new team members! If you are interested in joining us or collaborating, please reach out to Dr. Yang Lu to inquire about available Postdoc/PhD/master/intern opportunities!
+<span style="color:red">We are always looking for new team members! If you are interested in joining us or collaborating, please reach out to Dr. Yang Lu to inquire about available (Postdoc/Ph.D./RA/Intern) opportunities! </span>
 
-{% include link.html type="external" link="mailto:yanglu@uwaterloo.ca" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="https://docs.google.com/document/d/1Q06LiTatuG2nvpEceSAYIqQo-G9nKA5_JmNCcRSX1bU" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
