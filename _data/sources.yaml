@@ -3,4 +3,13 @@
   date: 2021-10-4
   extra-links:
     - link: https://rdcu.be/cyMvt
+      text: Paper
 
+- id: raw:files/refs/dance.json
+  image: images/tools/icml21.png
+  extra-links:
+    - link: https://proceedings.mlr.press/v139/lu21b.html
+      text: Paper
+    - type: source
+      link: https://bitbucket.org/noblelab/dance
+      text: Code
