@@ -5,8 +5,8 @@
     - link: https://rdcu.be/cyMvt
       text: Paper
 
-- title: testtitle
-  image: images/tools/icml21.png
-  extra-links:
-    - link: https://proceedings.mlr.press/v139/lu21b.html
-      text: Paper
+
+- id: 1234
+  title: Some Paper Title
+  publisher: Cold Spring Harbor
+
