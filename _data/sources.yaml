@@ -5,7 +5,15 @@
     - link: https://rdcu.be/cyMvt
       text: Paper
 
-- id: raw:files/refs/dance.json
+- id: ludance21
+  title: DANCE: Enhancing saliency maps using decoys
+  authors:
+  - Yang Young Lu
+  - Wenbo Guo
+  - Xinyu Xing
+  - William Stafford Noble
+  publisher: Proceedings of the 38th International Conference on Machine Learning (ICML)
+  date: '2021-07-18'
   image: images/tools/icml21.png
   extra-links:
     - link: https://proceedings.mlr.press/v139/lu21b.html
