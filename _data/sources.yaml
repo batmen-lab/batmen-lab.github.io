@@ -6,7 +6,7 @@
       text: Paper
   
 
-- id: 1234
+- id: url:https://proceedings.mlr.press/v139/lu21b.html
   title: test
   author: Yang Lu
   publisher: ICML
