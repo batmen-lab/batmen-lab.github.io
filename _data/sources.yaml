@@ -5,11 +5,8 @@
     - link: https://rdcu.be/cyMvt
       text: Paper
 
-- id: url:https://proceedings.mlr.press/v139/lu21b.html
-  title: DANCE: Enhancing saliency maps using decoys
-  authors: Yang Young Lu
-  publisher: ICML
-  date: 2021-07-18
+- id: testid
+  title: testtitle
   image: images/tools/icml21.png
   extra-links:
     - link: https://proceedings.mlr.press/v139/lu21b.html
