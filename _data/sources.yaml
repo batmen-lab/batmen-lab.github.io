@@ -6,11 +6,8 @@
       text: Paper
   
 
-- id: ludance21
+- id: 1234
   title: test
+  author: Yang Lu
   publisher: ICML
   date: 2021-07-18
-  extra-links:
-    - link: https://rdcu.be/cyMvt
-      text: Paper
-
