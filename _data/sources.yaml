@@ -218,3 +218,19 @@
     - Computational Genomics
     - Metagenomics
 
+- id: doi:10.1093/nar/gkw1002
+  image: images/tools/nar_virhostmatcher.jpg
+  authors:
+  - NA Ahlgren
+  - J Ren
+  - '<b>YY Lu</b>'
+  - JA Fuhrman
+  - F Sun
+  extra-links:
+    - link: https://academic.oup.com/nar/article/45/1/39/2605663
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Comparative Genomics
+    - Metagenomics
+

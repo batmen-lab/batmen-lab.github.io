@@ -22,8 +22,8 @@ auto-cite:
   plugins:
     - name: sources
       input:
-        - ../_data/colab-sources.yaml
-#        - ../_data/sources.yaml
+        - ../_data/sources.yaml
+#        - ../_data/colab-sources.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
