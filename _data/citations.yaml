@@ -269,6 +269,7 @@
   tags:
   - Computational Proteomics
   - Mass Spectrometry
+  image: images/tools/biorxiv.png
 - id: doi:10.1101/2022.04.11.487945
   title: Reducing peptide sequence bias in quantitative mass spectrometry data with
     machine learning
@@ -288,6 +289,7 @@
   tags:
   - Computational Proteomics
   - Mass Spectrometry
+  image: images/tools/biorxiv.png
 - id: doi:10.1093/bioinformatics/btz253
   title: 'SolidBin: improving metagenome binning with semi-supervised normalized cut'
   authors:
