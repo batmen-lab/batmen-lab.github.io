@@ -35,6 +35,8 @@
   - type: docs
     link: https://slideslive.com/38959260/dance-enhancing-saliency-maps-using-decoys
     text: Slides
+  tags:
+  - Interpretable Machine Learning
 - id: url:https://proceedings.mlr.press/v139/lu21e.html
   title: 'ACE: Explaining cluster from an adversarial perspective'
   authors:
@@ -59,6 +61,10 @@
   - type: data
     link: http://noble.gs.washington.edu/proj/ACE
     text: Datasets
+  tags:
+  - Interpretable Machine Learning
+  - Computational Genomics
+  - Single-cell Genomics
 - id: doi:10.1093/bioinformatics/btab284
   title: 'DIAmeter: matching peptides to data-independent acquisition mass spectrometry
     data'
@@ -84,3 +90,6 @@
   - type: data
     link: http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD025385
     text: Datasets
+  tags:
+  - Computational Proteomics
+  - Mass Spectrometry
