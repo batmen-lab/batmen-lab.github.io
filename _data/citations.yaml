@@ -4,8 +4,8 @@
 - id: doi:10.1038/s41592-021-01259-4
   title: A wider field of view to predict expression
   authors:
-  - Yang Young Lu
-  - William Stafford Noble
+  - <b>YY Lu</b>
+  - WS Noble
   publisher: Nature Methods
   date: '2021-10-04'
   link: https://doi.org/gp8272
@@ -18,12 +18,11 @@
 - id: url:https://proceedings.mlr.press/v139/lu21b.html
   title: 'DANCE: Enhancing saliency maps using decoys'
   authors:
-  - Yang Young Lu
-  - Wenbo Guo
-  - Xinyu Xing
-  - William Stafford Noble
-  publisher: Proceedings of the 38th International Conference on Machine Learning
-    (ICML)
+  - <b>YY Lu*</b>
+  - W Guo*
+  - X Xing
+  - WS Noble
+  publisher: Proceedings of International Conference on Machine Learning (ICML)
   date: '2021-07-18'
   link: https://proceedings.mlr.press/v139/lu21b.html
   author: Yang Lu
@@ -42,12 +41,11 @@
 - id: url:https://proceedings.mlr.press/v139/lu21e.html
   title: 'ACE: Explaining cluster from an adversarial perspective'
   authors:
-  - Yang Young Lu
-  - Timothy C. Yu
-  - Giancarlo Bonora
-  - William Stafford Noble
-  publisher: Proceedings of the 38th International Conference on Machine Learning
-    (ICML)
+  - <b>YY Lu</b>
+  - T Yu
+  - G Bonora
+  - WS Noble
+  publisher: Proceedings of International Conference on Machine Learning (ICML)
   date: '2021-07-18'
   link: https://proceedings.mlr.press/v139/lu21e.html
   image: images/tools/icml21.jpg
@@ -71,11 +69,11 @@
   title: 'DIAmeter: matching peptides to data-independent acquisition mass spectrometry
     data'
   authors:
-  - Yang Young Lu
-  - Jeff Bilmes
-  - Ricard A Rodriguez-Mias
-  - "Judit Vill\xE9n"
-  - William Stafford Noble
+  - <b>YY Lu</b>
+  - J Bilmes
+  - RA Rodriguez-Mias
+  - J Villen
+  - WS Noble
   publisher: Bioinformatics
   date: '2021-07-25'
   link: https://doi.org/gp88gz
@@ -98,11 +96,11 @@
 - id: doi:10.1093/bioinformatics/btaa699
   title: 'CRAFT: Compact genome Representation toward large-scale Alignment-Free daTabase'
   authors:
-  - Yang Young Lu
-  - Jiaxing Bai
-  - Yiwen Wang
-  - Ying Wang
-  - Fengzhu Sun
+  - <b>YY Lu*</b>
+  - J Bai*
+  - Y Wang
+  - Y Wang
+  - F Sun
   publisher: Bioinformatics
   date: '2021-01-15'
   link: https://doi.org/gp88kt
@@ -119,8 +117,8 @@
 - id: url:https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
   title: 'Ledidi: Designing genomic edits that induce functional activity'
   authors:
-  - Jacob Schreiber*
-  - <b>Yang Young Lu*</b>
+  - J Schreiber*
+  - <b>YY Lu*</b>
   - William Stafford Noble
   publisher: ICML Workshop on Computational Biology
   date: '2020-07-17'
@@ -148,8 +146,8 @@
   - Yingying Fan
   - Jinchi Lv
   - William Stafford Noble
-  publisher: Proceedings of the 32nd International Conference on Neural Information
-    Processing Systems (NeurIPS)
+  publisher: Proceedings of International Conference on Neural Information Processing
+    Systems (NeurIPS)
   date: '2018-12-03'
   link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
   image: images/tools/neurips.png
@@ -173,7 +171,7 @@
   title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management,
     and Visualization'
   authors:
-  - <b>Yang Young Lu</b>
+  - <b>YY Lu</b>
   publisher: Doctoral Thesis, University of Southern California
   date: '2017-12-01'
   link: https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
