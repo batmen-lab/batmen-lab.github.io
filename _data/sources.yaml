@@ -222,6 +222,7 @@
 ### collaborative papers
 
 - id: doi:10.1101/2022.04.06.487405
+  image: images/tools/biorxiv.png
   authors:
   - RA Rodriguez-Mias
   - KN Hess
@@ -242,6 +243,7 @@
     - Mass Spectrometry
 
 - id: doi:10.1101/2022.04.11.487945
+  image: images/tools/biorxiv.png
   authors:
   - AB Dincer
   - '<b>YY Lu</b>'
