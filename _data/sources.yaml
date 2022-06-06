@@ -74,3 +74,24 @@
   tags:
     - Computational Genomics
     - Comparative Genomics
+
+- id: url:https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
+  image: images/tools/icml21.jpg
+  title: 'Ledidi: Designing genomic edits that induce functional activity'
+  publisher: ICML Workshop on Computational Biology
+  date: 2020-7-17
+  extra-links:
+    - link: https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
+      text: Paper
+    - type: source
+      link: https://github.com/jmschrei/ledidi
+      text: Code
+    - type: docs
+      link: https://slideslive.com/38930903/ledidi-designing-genomic-edits-that-induce-functional-activity
+      text: Slides
+    - type: docs
+      link: https://github.com/jmschrei/ledidi/tree/master/tutorials
+      text: Tutorial
+  tags:
+    - Computational Genomics
+    - Functional Genomics
