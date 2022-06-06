@@ -245,6 +245,43 @@
   tags:
   - Computational Genomics
   - Metagenomics
+- id: doi:10.1186/s12859-017-1835-1
+  title: Improving contig binning of metagenomic data using $$ {d}_2^S $$ oligonucleotide
+    frequency dissimilarity
+  authors:
+  - Y Wang
+  - K Wang
+  - <b>YY Lu</b>
+  - F Sun
+  publisher: BMC Bioinformatics
+  date: '2017-09-20'
+  link: https://doi.org/gp89fr
+  image: images/tools/bmcbioinfo.jpg
+  extra-links:
+  - link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1835-1
+    text: Paper
+  tags:
+  - Computational Genomics
+  - Metagenomics
+- id: doi:10.1186/s40168-017-0283-5
+  title: 'VirFinder: a novel k-mer based tool for identifying viral sequences from
+    assembled metagenomic data'
+  authors:
+  - J Ren
+  - NA Ahlgren
+  - <b>YY Lu</b>
+  - JA Fuhrman
+  - F Sun
+  publisher: Microbiome
+  date: '2017-07-06'
+  link: https://doi.org/gbmgnk
+  image: images/tools/microbiome.png
+  extra-links:
+  - link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0283-5
+    text: Paper
+  tags:
+  - Computational Genomics
+  - Metagenomics
 - id: doi:10.1093/nar/gkw1002
   title: Alignment-free $d_2^*$ oligonucleotide frequency dissimilarity measure improves
     prediction of hosts from metagenomically-derived viral sequences
