@@ -95,3 +95,40 @@
   tags:
     - Computational Genomics
     - Functional Genomics
+
+- id: url:https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
+  image: images/tools/neurips.png
+  title: 'DeepPINK: reproducible feature selection in deep neural networks'
+  publisher: Proceedings of the 32nd International Conference on Neural Information Processing Systems (NeurIPS)
+  date: 2018-12-03
+  extra-links:
+    - link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
+      text: Paper
+    - type: source
+      link: https://github.com/younglululu/DeepPINK
+      text: Code
+    - type: docs
+      link: https://www.youtube.com/watch?v=P63aCWa0a8w
+      text: Slides
+    - type: docs
+      link: https://noble.gs.washington.edu/proj/DeepPINK/
+      text: Datasets
+  tags:
+    - Error-controlled Machine Learning
+    - Trustworthy Machine Learning
+    - Knockoff Filter
+    - Multiple Hypothesis Testing
+
+- id: url:https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
+  image: images/tools/usc.jpg
+  title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management, and Visualization'
+  authors:
+  - Yang Young Lu
+  publisher: Doctoral Thesis, University of Southern California
+  date: 2017-12-1
+  extra-links:
+    - link: https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
+      text: Thesis
+  tags:
+    - Interpretable Machine Learning
+
