@@ -32,3 +32,6 @@
   - type: source
     link: https://bitbucket.org/noblelab/dance
     text: Code
+  - type: docs
+    link: https://slideslive.com/38959260/dance-enhancing-saliency-maps-using-decoys
+    text: Slides
