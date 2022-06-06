@@ -25,7 +25,7 @@
   date: '2021-07-18'
   link: https://proceedings.mlr.press/v139/lu21b.html
   author: Yang Lu
-  image: images/tools/icml21.png
+  image: images/tools/icml21.jpg
   extra-links:
   - link: https://proceedings.mlr.press/v139/lu21b.html
     text: Paper
@@ -35,3 +35,27 @@
   - type: docs
     link: https://slideslive.com/38959260/dance-enhancing-saliency-maps-using-decoys
     text: Slides
+- id: url:https://proceedings.mlr.press/v139/lu21e.html
+  title: 'ACE: Explaining cluster from an adversarial perspective'
+  authors:
+  - Yang Young Lu
+  - Timothy C. Yu
+  - Giancarlo Bonora
+  - William Stafford Noble
+  publisher: Proceedings of the 38th International Conference on Machine Learning
+    (ICML)
+  date: '2021-07-18'
+  link: https://proceedings.mlr.press/v139/lu21e.html
+  image: images/tools/icml21.jpg
+  extra-links:
+  - link: https://proceedings.mlr.press/v139/lu21e.html
+    text: Paper
+  - type: source
+    link: https://bitbucket.org/noblelab/ace
+    text: Code
+  - type: docs
+    link: https://slideslive.com/38959455/ace-explaining-cluster-from-an-adversarial-perspective
+    text: Slides
+  - type: data
+    link: http://noble.gs.washington.edu/proj/ACE
+    text: Datasets
