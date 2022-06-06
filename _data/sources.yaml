@@ -221,6 +221,120 @@
 
 ### collaborative papers
 
+- id: doi:10.1101/2022.04.06.487405
+  authors:
+  - RA Rodriguez-Mias
+  - KN Hess
+  - BY Ruiz
+  - IR Smith
+  - AS Barente
+  - SM Zimmerman
+  - '<b>YY Lu</b>'
+  - WS Noble
+  - S Fields
+  - J Villen
+  extra-links:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2022.04.06.487405v1
+      text: Preprint
+  tags:
+    - Computational Proteomics
+    - Mass Spectrometry
+
+- id: doi:10.1101/2022.04.11.487945
+  authors:
+  - AB Dincer
+  - '<b>YY Lu</b>'
+  - D Schweppe
+  - S Oh
+  - WS Noble
+  extra-links:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2022.04.11.487945v1
+      text: Preprint
+  tags:
+    - Computational Proteomics
+    - Mass Spectrometry
+
+- id: doi:10.1093/bioinformatics/btz253
+  image: images/tools/bioinfo_cocacola.jpg
+  authors:
+  - Z Wang
+  - Z Wang
+  - '<b>YY Lu</b>'
+  - F Sun
+  - S Zhu
+  extra-links:
+    - link: https://academic.oup.com/bioinformatics/article/35/21/4229/5448864
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Metagenomics
+
+- id: doi:10.1371/journal.pcbi.1007329
+  image: images/tools/ploscb.png
+  authors:
+  - DF Read
+  - K Cook
+  - '<b>YY Lu</b>'
+  - KG Le Roch
+  - WS Noble
+  extra-links:
+    - link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007329
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Functional Genomics
+
+- id: doi:10.1021/acs.jproteome.8b00365
+  image: images/tools/jpr_siren.jpg
+  authors:
+  - A Hu
+  - '<b>YY Lu</b>'
+  - J Bilmes
+  - WS Noble
+  extra-links:
+    - link: https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00365
+      text: Paper
+    - type: source
+      link: http://bitbucket.org/noblelab/siren
+      text: Code
+  tags:
+    - Computational Proteomics
+    - Mass Spectrometry
+
+- id: doi:10.1146/annurev-biodatasci-080917-013431
+  image: images/tools/biodatasci.png
+  authors:
+  - J Ren
+  - X Bai
+  - '<b>YY Lu</b>'
+  - K Tang
+  - Y Wang
+  - G Reinert
+  - F Sun
+  extra-links:
+    - link: https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-080917-013431
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Comparative Genomics
+    - Review
+
+- id: doi:10.3389/fmicb.2018.00711
+  image: images/tools/frontier_microbiology.jpg
+  authors:
+  - K Tang
+  - '<b>YY Lu</b>'
+  - F Sun
+  extra-links:
+    - link: https://www.frontiersin.org/articles/10.3389/fmicb.2018.00711/full
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Comparative Genomics
+    - Metagenomics
+
 - id: doi:10.1186/s12859-017-1835-1
   image: images/tools/bmcbioinfo.jpg
   authors:
