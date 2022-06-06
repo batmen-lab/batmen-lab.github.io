@@ -160,7 +160,7 @@
   - type: docs
     link: https://www.youtube.com/watch?v=P63aCWa0a8w
     text: Slides
-  - type: docs
+  - type: data
     link: https://noble.gs.washington.edu/proj/DeepPINK/
     text: Datasets
   tags:
