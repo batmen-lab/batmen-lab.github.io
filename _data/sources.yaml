@@ -78,6 +78,7 @@
 - id: url:https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
   image: images/tools/icml21.jpg
   title: 'Ledidi: Designing genomic edits that induce functional activity'
+  authors:
   - 'Jacob Schreiber*'
   - '<b>Yang Young Lu*</b>'
   - William Stafford Noble
