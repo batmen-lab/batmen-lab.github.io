@@ -59,3 +59,28 @@
   - type: data
     link: http://noble.gs.washington.edu/proj/ACE
     text: Datasets
+- id: doi:10.1093/bioinformatics/btab284
+  title: 'DIAmeter: matching peptides to data-independent acquisition mass spectrometry
+    data'
+  authors:
+  - Yang Young Lu
+  - Jeff Bilmes
+  - Ricard A Rodriguez-Mias
+  - "Judit Vill\xE9n"
+  - William Stafford Noble
+  publisher: Bioinformatics
+  date: '2021-07-25'
+  link: https://doi.org/gp88gz
+  image: images/tools/bioinfo_diameter.jpg
+  extra-links:
+  - link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
+    text: Paper
+  - type: source
+    link: http://crux.ms/
+    text: Code
+  - type: docs
+    link: files/pubs/diameter_slides.pdf
+    text: Slides
+  - type: data
+    link: http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD025385
+    text: Datasets
