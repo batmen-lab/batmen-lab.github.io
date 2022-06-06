@@ -128,6 +128,11 @@
 - id: url:https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
   image: images/tools/neurips.png
   title: 'DeepPINK: reproducible feature selection in deep neural networks'
+  authors:
+  - '<b>YY Lu*</b>'
+  - 'Y Fan*'
+  - J Lv
+  - WS Noble
   publisher: Proceedings of International Conference on Neural Information Processing Systems (NeurIPS)
   date: 2018-12-3
   extra-links:
@@ -159,3 +164,57 @@
       text: Thesis
   tags:
     - Computational Genomics
+
+- id: doi:10.1093/nar/gkx767
+  image: images/tools/nar_heterorp.jpg
+  authors:
+  - '<b>YY Lu</b>'
+  - J Lv
+  - JA Fuhrman
+  - F Sun
+  extra-links:
+    - link: https://academic.oup.com/nar/article/45/20/e169/4097616
+      text: Paper
+    - type: source
+      link: https://github.com/younglululu/Hetero-RP
+      text: Code
+  tags:
+    - Computational Genomics
+    - Integrative Genomics
+
+- id: doi:10.1093/nar/gkx351
+  image: images/tools/nar_cafe.jpg
+  authors:
+  - '<b>YY Lu</b>'
+  - K Tang
+  - J Ren
+  - JA Fuhrman
+  - MS Waterman
+  - F Sun
+  extra-links:
+    - link: https://academic.oup.com/nar/article/45/W1/W554/3791208
+      text: Paper
+    - type: source
+      link: https://github.com/younglululu/CAFE
+      text: Code
+  tags:
+    - Computational Genomics
+    - Comparative Genomics
+
+- id: doi:10.1093/bioinformatics/btw290
+  image: images/tools/bioinfo_cocacola.jpg
+  authors:
+  - '<b>YY Lu</b>'
+  - T Chen
+  - JA Fuhrman
+  - F Sun
+  extra-links:
+    - link: https://academic.oup.com/bioinformatics/article/33/6/791/2525584
+      text: Paper
+    - type: source
+      link: https://github.com/younglululu/COCACOLA
+      text: Code
+  tags:
+    - Computational Genomics
+    - Metagenomics
+
