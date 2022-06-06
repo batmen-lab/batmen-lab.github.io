@@ -1,6 +1,5 @@
 - id: doi:10.1038/s41592-021-01259-4
   image: images/tools/enformer.jpg
-  date: 2021-10-4
   extra-links:
     - link: https://rdcu.be/cyMvt
       text: Paper
@@ -48,7 +47,6 @@
 
 - id: doi:10.1093/bioinformatics/btab284
   image: images/tools/bioinfo_diameter.jpg
-  date: 2021-7-25
   extra-links:
     - link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
       text: Paper
@@ -67,7 +65,6 @@
 
 - id: doi:10.1093/bioinformatics/btaa699
   image: images/tools/bioinfo_craft.jpg
-  date: 2021-1-15
   extra-links:
     - link: https://academic.oup.com/bioinformatics/article/37/2/155/5885078
       text: Paper
