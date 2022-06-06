@@ -147,7 +147,7 @@
   - William Stafford Noble
   publisher: Proceedings of the 32nd International Conference on Neural Information
     Processing Systems (NeurIPS)
-  date: 1900-1-1
+  date: '2018-12-03'
   link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
   image: images/tools/neurips.png
   extra-links:
@@ -164,7 +164,6 @@
     text: Datasets
   tags:
   - Error-controlled Machine Learning
-  - Trustworthy Machine Learning
   - Knockoff Filter
   - Multiple Hypothesis Testing
 - id: url:https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
@@ -180,4 +179,4 @@
   - link: https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
     text: Thesis
   tags:
-  - Interpretable Machine Learning
+  - Computational Genomics
