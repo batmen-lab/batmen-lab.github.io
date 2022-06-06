@@ -4,6 +4,8 @@
   extra-links:
     - link: https://rdcu.be/cyMvt
       text: Paper
+  tags:
+    - Computational Genomics
 
 - id: url:https://proceedings.mlr.press/v139/lu21b.html
   image: images/tools/icml21.jpg
@@ -62,3 +64,16 @@
   tags:
     - Computational Proteomics
     - Mass Spectrometry
+
+- id: doi:10.1093/bioinformatics/btaa699
+  image: images/tools/bioinfo_craft.jpg
+  date: 2021-1-15
+  extra-links:
+    - link: https://academic.oup.com/bioinformatics/article/37/2/155/5885078
+      text: Paper
+    - type: source
+      link: https://github.com/jiaxingbai/CRAFT
+      text: Code
+  tags:
+    - Computational Genomics
+    - Comparative Genomics
