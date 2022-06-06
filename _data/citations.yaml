@@ -9,7 +9,7 @@
   publisher: Nature Methods
   date: '2021-10-04'
   link: https://doi.org/gp8272
-  image: images/tools/enformer.jpg
+  image: images/tools/enformer.png
   extra-links:
   - link: https://rdcu.be/cyMvt
     text: Paper
@@ -170,7 +170,7 @@
   title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management,
     and Visualization'
   authors:
-  - Yang Young Lu
+  - <b>Yang Young Lu</b>
   publisher: Doctoral Thesis, University of Southern California
   date: '2017-12-01'
   link: https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
