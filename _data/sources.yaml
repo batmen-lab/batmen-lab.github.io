@@ -1,5 +1,8 @@
 - id: doi:10.1038/s41592-021-01259-4
   image: images/tools/enformer.png
+  authors:
+  - '<b>YY Lu</b>'
+  - WS Noble
   extra-links:
     - link: https://rdcu.be/cyMvt
       text: Paper
@@ -9,7 +12,12 @@
 - id: url:https://proceedings.mlr.press/v139/lu21b.html
   image: images/tools/icml21.jpg
   title: 'DANCE: Enhancing saliency maps using decoys'
-  publisher: Proceedings of the 38th International Conference on Machine Learning (ICML)
+  authors:
+  - '<b>YY Lu*</b>'
+  - 'W Guo*'
+  - X Xing
+  - WS Noble
+  publisher: Proceedings of International Conference on Machine Learning (ICML)
   date: 2021-7-18
   extra-links:
     - link: https://proceedings.mlr.press/v139/lu21b.html
@@ -26,7 +34,12 @@
 - id: url:https://proceedings.mlr.press/v139/lu21e.html
   image: images/tools/icml21.jpg
   title: 'ACE: Explaining cluster from an adversarial perspective'
-  publisher: Proceedings of the 38th International Conference on Machine Learning (ICML)
+  authors:
+  - '<b>YY Lu</b>'
+  - T Yu
+  - G Bonora
+  - WS Noble
+  publisher: Proceedings of International Conference on Machine Learning (ICML)
   date: 2021-7-18
   extra-links:
     - link: https://proceedings.mlr.press/v139/lu21e.html
@@ -47,6 +60,12 @@
 
 - id: doi:10.1093/bioinformatics/btab284
   image: images/tools/bioinfo_diameter.jpg
+  authors:
+  - '<b>YY Lu</b>'
+  - J Bilmes
+  - RA Rodriguez-Mias
+  - J Villen
+  - WS Noble
   extra-links:
     - link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
       text: Paper
@@ -65,6 +84,12 @@
 
 - id: doi:10.1093/bioinformatics/btaa699
   image: images/tools/bioinfo_craft.jpg
+  authors:
+  - '<b>YY Lu*</b>'
+  - 'J Bai*'
+  - Y Wang
+  - Y Wang
+  - F Sun
   extra-links:
     - link: https://academic.oup.com/bioinformatics/article/37/2/155/5885078
       text: Paper
@@ -79,8 +104,8 @@
   image: images/tools/icml21.jpg
   title: 'Ledidi: Designing genomic edits that induce functional activity'
   authors:
-  - 'Jacob Schreiber*'
-  - '<b>Yang Young Lu*</b>'
+  - 'J Schreiber*'
+  - '<b>YY Lu*</b>'
   - William Stafford Noble
   publisher: ICML Workshop on Computational Biology
   date: 2020-7-17
@@ -103,7 +128,7 @@
 - id: url:https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
   image: images/tools/neurips.png
   title: 'DeepPINK: reproducible feature selection in deep neural networks'
-  publisher: Proceedings of the 32nd International Conference on Neural Information Processing Systems (NeurIPS)
+  publisher: Proceedings of International Conference on Neural Information Processing Systems (NeurIPS)
   date: 2018-12-3
   extra-links:
     - link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
@@ -126,7 +151,7 @@
   image: images/tools/usc.jpg
   title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management, and Visualization'
   authors:
-  - '<b>Yang Young Lu</b>'
+  - '<b>YY Lu</b>'
   publisher: Doctoral Thesis, University of Southern California
   date: 2017-12-1
   extra-links:
