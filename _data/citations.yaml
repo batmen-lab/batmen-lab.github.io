@@ -245,3 +245,23 @@
   tags:
   - Computational Genomics
   - Metagenomics
+- id: doi:10.1093/nar/gkw1002
+  title: Alignment-free $d_2^*$ oligonucleotide frequency dissimilarity measure improves
+    prediction of hosts from metagenomically-derived viral sequences
+  authors:
+  - NA Ahlgren
+  - J Ren
+  - <b>YY Lu</b>
+  - JA Fuhrman
+  - F Sun
+  publisher: Nucleic Acids Research
+  date: '2016-11-28'
+  link: https://doi.org/f9v2vr
+  image: images/tools/nar_virhostmatcher.jpg
+  extra-links:
+  - link: https://academic.oup.com/nar/article/45/1/39/2605663
+    text: Paper
+  tags:
+  - Computational Genomics
+  - Comparative Genomics
+  - Metagenomics
