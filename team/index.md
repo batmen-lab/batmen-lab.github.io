@@ -12,7 +12,7 @@ redirect_from:
 
 # <i class="fas fa-users"></i>Team
 
-We are an interdisciplinary team!
+We are an interdisciplinary team of collaborative researchers with diverse skill sets. 
 
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}

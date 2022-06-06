@@ -2,28 +2,14 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# BATMEN Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to the BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab headed by Dr. Yang Lu! BATMEN is a research laboratory based at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca) at the [University of Waterloo](https://uwaterloo.ca/)
+<br>
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
+<b>Research synopsis: </b>
+Our principal research interests lie in the development of computational methods for the analysis of genomic and proteomic data. We are particularly interested in developing interpretable machine learning models to make sense of complex biological data. We are also interested in finding scientifically interesting and statistically confident hypotheses by interpreting these models.
+
 
 {% include section.html full=true %}
 
@@ -34,8 +20,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We make our research visible to both the computational biology and machine learning community.
 
 {%
   include link.html
@@ -49,15 +34,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publications.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We tackles the challenges of data-intensive biology, which span data collection, data interpretation, hypothesis generation, and hypothesis testing.
 
 {%
   include link.html
@@ -71,15 +55,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  image="images/research.jpg"
+  link="tools"
+  title="Our Projects"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are an interdisciplinary team of collaborative researchers with diverse skill sets.  
 
 {%
   include link.html
@@ -93,11 +77,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/teams.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
