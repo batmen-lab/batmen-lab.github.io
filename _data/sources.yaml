@@ -1,5 +1,5 @@
 - id: doi:10.1038/s41592-021-01259-4
-  image: images/tools/enformer.jpg
+  image: images/tools/enformer.png
   extra-links:
     - link: https://rdcu.be/cyMvt
       text: Paper
@@ -122,7 +122,7 @@
   image: images/tools/usc.jpg
   title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management, and Visualization'
   authors:
-  - Yang Young Lu
+  - '<b>Yang Young Lu</b>'
   publisher: Doctoral Thesis, University of Southern California
   date: 2017-12-1
   extra-links:
