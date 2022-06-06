@@ -218,6 +218,38 @@
     - Computational Genomics
     - Metagenomics
 
+
+### collaborative papers
+
+- id: doi:10.1186/s12859-017-1835-1
+  image: images/tools/bmcbioinfo.jpg
+  authors:
+  - Y Wang
+  - K Wang
+  - '<b>YY Lu</b>'
+  - F Sun
+  extra-links:
+    - link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1835-1
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Metagenomics
+
+- id: doi:10.1186/s40168-017-0283-5
+  image: images/tools/microbiome.png
+  authors:
+  - J Ren
+  - NA Ahlgren
+  - '<b>YY Lu</b>'
+  - JA Fuhrman
+  - F Sun
+  extra-links:
+    - link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0283-5
+      text: Paper
+  tags:
+    - Computational Genomics
+    - Metagenomics
+
 - id: doi:10.1093/nar/gkw1002
   image: images/tools/nar_virhostmatcher.jpg
   authors:
@@ -233,4 +265,3 @@
     - Computational Genomics
     - Comparative Genomics
     - Metagenomics
-
