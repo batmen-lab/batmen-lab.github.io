@@ -18,7 +18,7 @@
     - Computational Genomics
     - Single-cell Genomics
 
-- title: Multi-omics Pattern Detection + Reproducibility
+- title: Multi-omics + Pattern Detection
   group: featured
   image: images/tools/diameter.png
   link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
@@ -36,7 +36,7 @@
     - Computational Genomics
     - Functional Genomics
 
-- title: Heterogeneous Data Integration
+- title: Multi-omics + Data Integration
   group: more
   image: images/tools/heterorp.png
   link: https://academic.oup.com/nar/article/45/20/e169/4097616

@@ -41,7 +41,7 @@ We make our research visible to both the computational biology and machine learn
 %}
 
 {% capture text %}
-We tackles the challenges of data-intensive biology, which span data collection, data interpretation, hypothesis generation, and hypothesis testing.
+We tackle the challenges of data-intensive biology, which span data collection, data interpretation, hypothesis generation, and hypothesis testing.
 
 {%
   include link.html
