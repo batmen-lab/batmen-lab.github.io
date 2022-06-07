@@ -22,8 +22,7 @@
   group: featured
   image: images/tools/diameter.png
   link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
-  description: We demonstrated for the first time that protein identification can achieve both sensitivity and
-reproducibility.
+  description: We demonstrated for the first time that protein identification can achieve both sensitivity and reproducibility.
   tags:
     - Computational Proteomics
     - Mass Spectrometry
@@ -32,8 +31,7 @@ reproducibility.
   group: more
   image: images/tools/ledidi.png
   link: https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
-  description: We treated the design of genomic edits as an optimization problem where the goal is to produce the desired
-output from a specified predictive model.
+  description: We treated the design of genomic edits as an optimization problem where the goal is to produce the desired output from a specified predictive model.
   tags:
     - Computational Genomics
     - Functional Genomics
