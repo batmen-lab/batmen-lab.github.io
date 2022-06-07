@@ -1,16 +1,16 @@
 ---
-title: Tools
+title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Projects, datasets, and more
 ---
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We tackles the challenges of data-intensive biology, which span data collection, data interpretation, hypothesis generation, and hypothesis testing. These challenges are biological (e.g., sensitively discovering biological patterns), computational
+(e.g., effectively integrating heterogeneous data), analytical (e.g., effortlessly generating testable hypotheses),
+statistical (e.g., confidently teasing out hypotheses without drowning in false positives), and even ecological
+(e.g., elaborately building reusable software tools).
 
 {% include search-info.html %}
 

@@ -1,47 +1,48 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Interpretable ML + FDR Control
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/deeppink.png
+  link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
+  description: We demonstrated for the first time that the interpretation of deep learning models could achieve statistical guarantees.
   tags:
-    - resource
+    - Error-controlled Machine Learning
+    - Knockoff Filter
+    - Multiple Hypothesis Testing
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Interpretable ML + Hypothesis Generation 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/ace.png
+  link: https://proceedings.mlr.press/v139/lu21e.html
+  description: We neuralize the conventional procedure in scRNA-seq analysis and identify gene signatures that are both highly discriminative and less redundant.
   tags:
-    - resource
+    - Interpretable Machine Learning
+    - Computational Genomics
+    - Single-cell Genomics
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Omics Pattern Detection + Reproducibility
+  group: featured
+  image: images/tools/diameter.png
+  link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
+  description: We demonstrated for the first time that protein identification can achieve both sensitivity and
+reproducibility.
   tags:
-    - resource
-    - publication
+    - Computational Proteomics
+    - Mass Spectrometry
 
-- title: Cool Web App
+- title: Model Repurposing + Experimental Design
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/ledidi.png
+  link: https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
+  description: We treated the design of genomic edits as an optimization problem where the goal is to produce the desired
+output from a specified predictive model.
   tags:
-    - software
+    - Computational Genomics
+    - Functional Genomics
 
-- title: Cool Web Server
+- title: Heterogeneous Data Integration
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/heterorp.png
+  link: https://academic.oup.com/nar/article/45/20/e169/4097616
+  description: We developed an integrative and interpretable method that rescales features from heterogeneous data sources.  As a result,  more important features are weighted more highly than less important ones.
   tags:
-    - software
+    - Computational Genomics
+    - Integrative Genomics
