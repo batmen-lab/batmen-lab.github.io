@@ -18,7 +18,7 @@
     - Computational Genomics
     - Single-cell Genomics
 
-- title: Omics Pattern Detection + Reproducibility
+- title: Multi-omics Pattern Detection + Reproducibility
   group: featured
   image: images/tools/diameter.png
   link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
@@ -28,7 +28,7 @@
     - Mass Spectrometry
 
 - title: Model Repurposing + Experimental Design
-  group: more
+  group: featured
   image: images/tools/ledidi.png
   link: https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
   description: We treated the design of genomic edits as an optimization problem where the goal is to produce the desired output from a specified predictive model.
@@ -40,7 +40,7 @@
   group: more
   image: images/tools/heterorp.png
   link: https://academic.oup.com/nar/article/45/20/e169/4097616
-  description: We developed an integrative and interpretable method that rescales features from heterogeneous data sources.  As a result,  more important features are weighted more highly than less important ones.
+  description: We developed an integrative method that rescales features from heterogeneous data sources. 
   tags:
     - Computational Genomics
     - Integrative Genomics
