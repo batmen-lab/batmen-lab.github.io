@@ -92,6 +92,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$LINK
 
+resume:
+  icon: fa-solid fa-file-user
+  text: CV
+  tooltip: Curriculum Vitae
+  link: $LINK
+
 # publications
 
 journal:
