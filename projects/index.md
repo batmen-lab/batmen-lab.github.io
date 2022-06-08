@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Tools
 nav:
   order: 2
-  tooltip: Projects, datasets, and more
+  tooltip: Softwares, datasets, and more
 ---
 
 # <i class="fas fa-tools"></i>Tools

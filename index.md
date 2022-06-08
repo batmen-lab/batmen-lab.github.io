@@ -46,7 +46,7 @@ We tackle the challenges of data-intensive biology, which span data collection, 
 {%
   include link.html
   link="projects"
-  text="Browse our featured projects"
+  text="Browse our featured tools"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -57,7 +57,7 @@ We tackle the challenges of data-intensive biology, which span data collection, 
   include feature.html
   image="images/research.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Tools"
   flip=true
   text=text
 %}
