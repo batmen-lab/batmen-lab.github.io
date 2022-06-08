@@ -93,8 +93,8 @@ linkedin:
   link: https://www.linkedin.com/in/$LINK
 
 resume:
-  icon: fa-solid fa-file-user
-  text: CV
+  icon: cv.svg
+  text: Curriculum Vitae
   tooltip: Curriculum Vitae
   link: $LINK
 
