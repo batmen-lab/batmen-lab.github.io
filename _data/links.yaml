@@ -93,8 +93,8 @@ linkedin:
   link: https://www.linkedin.com/in/$LINK
 
 resume:
-  icon: cv.svg
-  text: Curriculum Vitae
+  icon: far fa-address-card
+  text: CV
   tooltip: Curriculum Vitae
   link: $LINK
 
