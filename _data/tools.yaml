@@ -1,37 +1,49 @@
 - title: DeepPINK
-  subtitle: '<a href="https://github.com/younglululu/DeepPINK">Interpretable ML + FDR Control</a>'
+  subtitle: Interpretable ML + FDR Control
   group: featured
   image: images/tools/deeppink.png
-  link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
+  link: https://github.com/younglululu/DeepPINK
   description: We demonstrated for the first time that the interpretation of deep learning models could achieve statistical guarantees.
-  repo: https://github.com/younglululu/DeepPINK
-  extra-links:
-    - type: source
-      link: https://github.com/younglululu/DeepPINK
-      text: Code
 
 - title: ACE
-  subtitle: '<a href="https://bitbucket.org/noblelab/ace">Interpretable ML + Hypothesis Generation</a>'
+  subtitle: Interpretable ML + Hypothesis Generation
   group: featured
   image: images/tools/ace.png
-  link: https://proceedings.mlr.press/v139/lu21e.html
+  link: https://bitbucket.org/noblelab/ace
   description: We neuralize the conventional procedure in scRNA-seq analysis and identify gene signatures that are both highly discriminative and less redundant.
-  repo: https://bitbucket.org/noblelab/ace
 
-- title: Multi-omics + Pattern Detection
+- title: DANCE
+  subtitle: Interpretable ML
+  group: featured
+  image: images/tools/dance.jpg
+  link: https://bitbucket.org/noblelab/dance
+  description: we proposed a more accurate and robust saliency method with theoretical guarantee. 
+
+- title: DIAmeter
+  subtitle: Pattern Detection + Mass Spectrometry
   group: featured
   image: images/tools/diameter.png
-  link: https://academic.oup.com/bioinformatics/article/37/Supplement_1/i434/6319661
+  link: http://crux.ms
   description: We demonstrated for the first time that protein identification can achieve both sensitivity and reproducibility.
 
-- title: Model Repurposing + Experimental Design
+- title: Ledidi
+  subtitle: Model Repurposing + Experimental Design
   group: featured
   image: images/tools/ledidi.png
-  link: https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
+  link: https://github.com/jmschrei/ledidi
   description: We treated the design of genomic edits as an optimization problem where the goal is to produce the desired output from a specified predictive model.
 
-- title: Multi-omics + Data Integration
-  group: more
+- title: Hetero-RP
+  subtitle: Multi-omics + Data Integration
+  group: featured
   image: images/tools/heterorp.png
-  link: https://academic.oup.com/nar/article/45/20/e169/4097616
+  link: https://github.com/younglululu/Hetero-RP
   description: We developed an integrative method that rescales features from heterogeneous data sources. 
+
+- title: CAFE
+  subtitle: Comparative Genomics
+  group: featured
+  image: images/tools/cafe.jpg
+  link: https://github.com/younglululu/CAFE
+  description: We developed a standalone software for efficient calculation of 28 alignment-free dissimilarity measures.
+
