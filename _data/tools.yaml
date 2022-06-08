@@ -1,8 +1,10 @@
 - title: Interpretable ML + FDR Control
+  subtitle: '<a href="https://github.com/younglululu/DeepPINK">DeepPINK </a>'
   group: featured
   image: images/tools/deeppink.png
   link: https://papers.nips.cc/paper/2018/hash/29daf9442f3c0b60642b14c081b4a556-Abstract.html
   description: We demonstrated for the first time that the interpretation of deep learning models could achieve statistical guarantees.
+  repo: https://github.com/younglululu/DeepPINK
   tags:
     - Error-controlled Machine Learning
     - Knockoff Filter
