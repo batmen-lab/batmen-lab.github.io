@@ -270,7 +270,7 @@
   - Computational Proteomics
   - Mass Spectrometry
   image: images/tools/biorxiv.png
-- id: doi:10.1101/2022.04.11.487945
+- id: doi:10.1021/acs.jproteome.2c00211
   title: Reducing peptide sequence bias in quantitative mass spectrometry data with
     machine learning
   authors:
@@ -279,13 +279,16 @@
   - D Schweppe
   - S Oh
   - WS Noble
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-04-12'
-  link: https://doi.org/gp9cmf
+  publisher: Journal of Proteome Research
+  date: '2022-06-13'
+  link: https://doi.org/10.1021/acs.jproteome.2c00211
+  image: images/tools/jpr_pepper.jpg
   extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2022.04.11.487945v1
-    text: Preprint
+  - link: https://doi.org/10.1021/acs.jproteome.2c00211
+    text: Paper
+  - type: source
+    link: https://github.com/Noble-Lab/Pepper
+    text: Code
   tags:
   - Computational Proteomics
   - Mass Spectrometry
