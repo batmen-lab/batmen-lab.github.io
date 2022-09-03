@@ -15,6 +15,29 @@
     text: Paper
   tags:
   - Computational Genomics
+- id: doi:10.1093/bib/bbac345
+  title: 'Metric learning for comparing genomic data with triplet network'
+  authors:
+  - Z Ma*
+  - <b>YY Lu*#</b>
+  - Y Wang*
+  - R Lin
+  - Z Yang
+  - F Zhang
+  - Y Wang#
+  publisher: Briefings in Bioinformatics
+  date: '2022-09-01'
+  link: https://doi.org/10.1093/bib/bbac345
+  image: images/tools/bib.jpg
+  extra-links:
+  - link: https://doi.org/10.1093/bib/bbac345
+    text: Paper
+  - type: source
+    link: https://github.com/Ying-Lab/MELT
+    text: Code
+  tags:
+  - Computational Genomics
+  - Comparative Genomics
 - id: url:https://proceedings.mlr.press/v139/lu21b.html
   title: 'DANCE: Enhancing saliency maps using decoys'
   authors:
