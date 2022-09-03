@@ -315,7 +315,6 @@
   tags:
   - Computational Proteomics
   - Mass Spectrometry
-  image: images/tools/biorxiv.png
 - id: doi:10.1093/bioinformatics/btz253
   title: 'SolidBin: improving metagenome binning with semi-supervised normalized cut'
   authors:

@@ -47,3 +47,10 @@
   link: https://github.com/younglululu/CAFE
   description: We developed a standalone software for efficient calculation of 28 alignment-free dissimilarity measures.
 
+- title: MELT
+  subtitle: Comparative Genomics
+  group: featured
+  image: images/tools/melt.png
+  link: https://github.com/Ying-Lab/MELT
+  description: We developed a weakly supervised method for comparative genomics in the absence of label information.
+
