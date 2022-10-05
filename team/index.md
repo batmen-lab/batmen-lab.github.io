@@ -18,6 +18,7 @@ We are an interdisciplinary team of collaborative researchers with diverse skill
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mphil, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {:.center}
 
@@ -37,6 +38,7 @@ We are an interdisciplinary team of collaborative researchers with diverse skill
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: mphil, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: ra, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 {:.center}
 
