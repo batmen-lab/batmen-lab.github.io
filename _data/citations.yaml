@@ -268,6 +268,32 @@
   tags:
   - Computational Genomics
   - Metagenomics
+- id: doi:10.1101/2022.10.02.510538
+  title: The Crux toolkit for analysis of bottom-up tandem mass spectrometry proteomics data
+  authors:
+  - A Kertesz-Farkas
+  - FLA Acquaye
+  - K Bimani
+  - J Eng
+  - WE Fondrie
+  - CE Grant
+  - MR Hoopmann
+  - A Lin
+  - <b>YY Lu</b>
+  - RL Moritz
+  - MJ MacCoss
+  - WS Noble
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-05'
+  link: https://doi.org/10.1101/2022.10.02.510538
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.10.02.510538
+    text: Preprint
+  tags:
+  - Computational Proteomics
+  - Mass Spectrometry
+  image: images/tools/biorxiv.png
 - id: doi:10.1101/2022.04.06.487405
   title: Proteome-wide identification of amino acid substitutions deleterious for
     protein function
