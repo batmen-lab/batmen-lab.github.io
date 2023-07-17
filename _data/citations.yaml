@@ -268,7 +268,30 @@
   tags:
   - Computational Genomics
   - Metagenomics
-- id: doi:10.1101/2022.10.02.510538
+- id: doi:10.1101/2023.02.22.529597
+  title: Retrieved Sequence Augmentation for Protein Representation Learning
+  authors:
+  - C Ma
+  - H Zhao
+  - L Zheng
+  - J Xin
+  - Q Li
+  - L Wu
+  - Z Deng
+  - <b>YY Lu</b>
+  - Q Liu
+  - L Kong
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-23'
+  link: https://www.biorxiv.org/content/10.1101/2023.02.22.529597
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.02.22.529597
+    text: Preprint
+  tags:
+  - Computational Proteomics
+  image: images/tools/biorxiv.png
+- id: doi:10.1021/acs.jproteome.2c00615
   title: The Crux toolkit for analysis of bottom-up tandem mass spectrometry proteomics data
   authors:
   - A Kertesz-Farkas
@@ -283,17 +306,16 @@
   - RL Moritz
   - MJ MacCoss
   - WS Noble
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-10-05'
-  link: https://doi.org/10.1101/2022.10.02.510538
+  publisher: Journal of Proteome Research
+  date: '2023-01-04'
+  link: https://pubs.acs.org/doi/full/10.1021/acs.jproteome.2c00615
   extra-links:
-  - type: preprint
-    link: https://doi.org/10.1101/2022.10.02.510538
-    text: Preprint
+  - link: https://pubs.acs.org/doi/full/10.1021/acs.jproteome.2c00615
+    text: Paper
   tags:
   - Computational Proteomics
   - Mass Spectrometry
-  image: images/tools/biorxiv.png
+  image: images/tools/jpr_crux.jpg
 - id: doi:10.1101/2022.04.06.487405
   title: Proteome-wide identification of amino acid substitutions deleterious for
     protein function
