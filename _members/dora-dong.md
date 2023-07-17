@@ -1,7 +1,7 @@
 ---
 name: Zhengyuan Dong
 image: images/team/dora-dong.jpg
-description: PhD student
+description: PhD Student
 role: phd
 links:
   email: zydong122@gmail.com
