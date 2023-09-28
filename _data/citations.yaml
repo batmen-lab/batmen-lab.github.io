@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: url:https://arxiv.org/abs/2309.15319
+  title: 'DeepROCK: Error-controlled interaction detection in deep neural networks'
+  authors:
+  - W Chen
+  - WS Noble#
+  - <b>YY Lu#</b>
+  publisher: arXiv 
+  date: '2023-09-27'
+  link: https://arxiv.org/abs/2309.15319
+  image: images/tools/arxiv.jpg
+  extra-links:
+  - link: https://arxiv.org/abs/2309.15319
+    text: Paper
+  tags:
+  - Error-controlled Machine Learning
+  - Multiple Hypothesis Testing
+  - Hypothesis Generation
 - id: doi:10.1038/s41592-021-01259-4
   title: A wider field of view to predict expression
   authors:
@@ -188,8 +205,8 @@
     text: Datasets
   tags:
   - Error-controlled Machine Learning
-  - Knockoff Filter
   - Multiple Hypothesis Testing
+  - Hypothesis Generation
 - id: url:https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
   title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management,
     and Visualization'
