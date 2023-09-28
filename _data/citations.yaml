@@ -12,8 +12,9 @@
   link: https://arxiv.org/abs/2309.15319
   image: images/tools/arxiv.jpg
   extra-links:
-  - link: https://arxiv.org/abs/2309.15319
-    text: Paper
+  - type: preprint
+    link: https://arxiv.org/abs/2309.15319
+    text: Preprint
   tags:
   - Error-controlled Machine Learning
   - Multiple Hypothesis Testing
