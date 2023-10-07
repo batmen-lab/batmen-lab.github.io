@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+  title: 'SONATA: Disambiguated manifold alignment of single-cell data'
+  authors:
+  - H Zhou
+  - K Cao
+  - <b>YY Lu#</b>
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-06'
+  link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+    text: Preprint
+  tags:
+  - Error-controlled Machine Learning
+  - Computational Genomics
+  - Integrative Genomics
+  image: images/tools/biorxiv.png
 - id: url:https://arxiv.org/abs/2309.15319
   title: 'DeepROCK: Error-controlled interaction detection in deep neural networks'
   authors:
