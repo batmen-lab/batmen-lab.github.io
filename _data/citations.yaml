@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
-
+- id: url:https://www.biorxiv.org/content/10.1101/2023.10.29.564479
+  title: 'BioMANIA: Simplifying bioinformatics data analysis through conversation'
+  authors:
+  - Z Dong
+  - V Zhong
+  - <b>YY Lu#</b>
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-01'
+  link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
+    text: Preprint
+  tags:
+  - Large language model
+  - Bioinformatics
+  image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
   title: 'SONATA: Disambiguated manifold alignment of single-cell data'
   authors:
