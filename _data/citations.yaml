@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
+- id: url:https://www.biorxiv.org/content/10.1101/2023.11.04.565596
+  title: 'MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks'
+  authors:
+  - Y Jiang
+  - M Atton
+  - Q Zhu#
+  - <b>YY Lu#</b>
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-05'
+  link: https://www.biorxiv.org/content/10.1101/2023.11.04.565596
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.11.04.565596
+    text: Preprint
+  tags:
+  - Computational Microbiomics
+  image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.29.564479
   title: 'BioMANIA: Simplifying bioinformatics data analysis through conversation'
   authors:
@@ -14,7 +31,7 @@
     link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
     text: Preprint
   tags:
-  - Large language model
+  - Large Language Model
   - Bioinformatics
   image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
@@ -33,7 +50,7 @@
   tags:
   - Error-controlled Machine Learning
   - Computational Genomics
-  - Integrative Genomics
+  - Multi-omics Integration
   image: images/tools/biorxiv.png
 - id: url:https://arxiv.org/abs/2309.15319
   title: 'DeepROCK: Error-controlled interaction detection in deep neural networks'
@@ -89,7 +106,6 @@
     text: Code
   tags:
   - Computational Genomics
-  - Comparative Genomics
 - id: url:https://proceedings.mlr.press/v139/lu21b.html
   title: 'DANCE: Enhancing saliency maps using decoys'
   authors:
@@ -188,7 +204,6 @@
     text: Code
   tags:
   - Computational Genomics
-  - Comparative Genomics
 - id: url:https://icml-compbio.github.io/icml-website-2020/2020/papers/WCBICML2020_paper_23.pdf
   title: 'Ledidi: Designing genomic edits that induce functional activity'
   authors:
@@ -256,6 +271,7 @@
     text: Thesis
   tags:
   - Computational Genomics
+  - Computational Microbiomics
 - id: doi:10.1093/nar/gkx767
   title: Towards enhanced and interpretable clustering/classification in integrative
     genomics
@@ -276,7 +292,7 @@
     text: Code
   tags:
   - Computational Genomics
-  - Integrative Genomics
+  - Multi-omics Integration
 - id: doi:10.1093/nar/gkx351
   title: 'CAFE: aCcelerated Alignment-FrEe sequence analysis'
   authors:
@@ -298,7 +314,6 @@
     text: Code
   tags:
   - Computational Genomics
-  - Comparative Genomics
 - id: doi:10.1093/bioinformatics/btw290
   title: 'COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge,
     CO-alignment and paired-end read LinkAge'
@@ -318,8 +333,7 @@
     link: https://github.com/younglululu/COCACOLA
     text: Code
   tags:
-  - Computational Genomics
-  - Metagenomics
+  - Computational Microbiomics
 - id: doi:10.1101/2023.02.22.529597
   title: Retrieved Sequence Augmentation for Protein Representation Learning
   authors:
@@ -431,8 +445,7 @@
   - link: https://academic.oup.com/bioinformatics/article/35/21/4229/5448864
     text: Paper
   tags:
-  - Computational Genomics
-  - Metagenomics
+  - Computational Microbiomics
 - id: doi:10.1371/journal.pcbi.1007329
   title: Predicting gene expression in the human malaria parasite Plasmodium falciparum
     using histone modification, nucleosome positioning, and 3D localization features
@@ -492,7 +505,6 @@
     text: Paper
   tags:
   - Computational Genomics
-  - Comparative Genomics
   - Review
 - id: doi:10.3389/fmicb.2018.00711
   title: Background Adjusted Alignment-Free Dissimilarity Measures Improve the Detection
@@ -510,8 +522,7 @@
     text: Paper
   tags:
   - Computational Genomics
-  - Comparative Genomics
-  - Metagenomics
+  - Computational Microbiomics
 - id: doi:10.1186/s12859-017-1835-1
   title: Improving contig binning of metagenomic data using $$ {d}_2^S $$ oligonucleotide
     frequency dissimilarity
@@ -528,8 +539,7 @@
   - link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1835-1
     text: Paper
   tags:
-  - Computational Genomics
-  - Metagenomics
+  - Computational Microbiomics
 - id: doi:10.1186/s40168-017-0283-5
   title: 'VirFinder: a novel k-mer based tool for identifying viral sequences from
     assembled metagenomic data'
@@ -547,8 +557,7 @@
   - link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0283-5
     text: Paper
   tags:
-  - Computational Genomics
-  - Metagenomics
+  - Computational Microbiomics
 - id: doi:10.1093/nar/gkw1002
   title: Alignment-free $d_2^*$ oligonucleotide frequency dissimilarity measure improves
     prediction of hosts from metagenomically-derived viral sequences
@@ -567,5 +576,4 @@
     text: Paper
   tags:
   - Computational Genomics
-  - Comparative Genomics
-  - Metagenomics
+  - Computational Microbiomics
