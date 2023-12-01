@@ -14,6 +14,9 @@
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2023.11.04.565596
     text: Preprint
+  - type: source
+    link: https://github.com/batmen-lab/MIOSTONE
+    text: Code
   tags:
   - Computational Microbiomics
   image: images/tools/biorxiv.png
@@ -30,6 +33,12 @@
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
     text: Preprint
+  - type: source
+    link: https://github.com/batmen-lab/BioMANIA
+    text: Code
+  - type: docs
+    link: https://biomania.ngrok.io/en
+    text: Demo
   tags:
   - Large Language Model
   - Bioinformatics
@@ -47,6 +56,15 @@
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
     text: Preprint
+  - type: source
+    link: https://github.com/batmen-lab/SONATA
+    text: Code
+  - type: docs
+    link: files/pubs/SONATA_poster_v5_compressed.pdf
+    text: Poster
+  - type: data
+    link: https://github.com/batmen-lab/SONATA/tree/main/examples
+    text: Datasets
   tags:
   - Error-controlled Machine Learning
   - Computational Genomics
@@ -66,6 +84,12 @@
   - type: preprint
     link: https://arxiv.org/abs/2309.15319
     text: Preprint
+  - type: source
+    link: https://github.com/batmen-lab/DeepROCK
+    text: Code
+  - type: docs
+    link: files/pubs/DeepROCK_Poster_compressed.pdf
+    text: Poster
   tags:
   - Error-controlled Machine Learning
   - Hypothesis Generation
