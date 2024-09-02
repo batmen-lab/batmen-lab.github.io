@@ -5,7 +5,7 @@
   authors:
   - Y Jiang
   - M Atton
-  - Q Zhu#
+  - Q Zhu
   - <b>YY Lu#</b>
   publisher: Cold Spring Harbor Laboratory
   date: '2023-11-05'
@@ -17,6 +17,9 @@
   - type: source
     link: https://github.com/batmen-lab/MIOSTONE
     text: Code
+  - type: docs
+    link: https://docs.google.com/presentation/d/1SXiFt3EP5TFiEC4GLADmdmjBmb-RfxtE
+    text: Slides
   tags:
   - Computational Microbiomics
   image: images/tools/biorxiv.png
@@ -36,6 +39,9 @@
   - type: source
     link: https://github.com/batmen-lab/BioMANIA
     text: Code
+  - type: docs
+    link: https://drive.google.com/file/d/1tTQ76Rk-Rj1B7uzRr_bFpsNdzhq3Ffa6
+    text: Poster
   - type: docs
     link: https://biomania.ngrok.io/en
     text: Demo
@@ -60,7 +66,7 @@
     link: https://github.com/batmen-lab/SONATA
     text: Code
   - type: docs
-    link: files/pubs/SONATA_poster_v5_compressed.pdf
+    link: https://drive.google.com/file/d/1T_AAKZhLROJhlN-A28V_gaex0IpZDZ35
     text: Poster
   - type: data
     link: https://github.com/batmen-lab/SONATA/tree/main/examples
@@ -88,7 +94,7 @@
     link: https://github.com/batmen-lab/DeepROCK
     text: Code
   - type: docs
-    link: files/pubs/DeepROCK_Poster_compressed.pdf
+    link: https://drive.google.com/file/d/14qvMvITdjHu3bUsQI3J7fj7Kq4-eE9tz
     text: Poster
   tags:
   - Error-controlled Machine Learning
