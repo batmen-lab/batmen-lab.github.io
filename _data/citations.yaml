@@ -24,53 +24,6 @@
   tags:
   - Error-controlled Machine Learning
   - Hypothesis Generation
-- id: url:https://www.biorxiv.org/content/10.1101/2024.08.26.609661
-  title: 'PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation'
-  authors:
-  - Y Jiang
-  - D Liao
-  - Q Zhu
-  - <b>YY Lu#</b>
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-08-26'
-  link: https://www.biorxiv.org/content/10.1101/2024.08.26.609661
-  extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2024.08.26.609661
-    text: Preprint
-  - type: source
-    link: https://github.com/batmen-lab/phylomix
-    text: Code
-  - type: data
-    link: https://drive.google.com/drive/folders/1fAzZKaI7mMx0xZGI7dOwEfCa1gRNkmCm
-    text: Datasets
-  tags:
-  - Computational Microbiomics
-  - Data Augmentation
-  image: images/tools/biorxiv.png
-- id: url:https://www.biorxiv.org/content/10.1101/2024.07.16.603405
-  title: 'A BLAST from the past: revisiting BLAST E-value'
-  authors:
-  - <b>YY Lu</b>
-  - WS Noble
-  - U Keich
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-07-19'
-  link: https://www.biorxiv.org/content/10.1101/2024.07.16.603405
-  extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2024.07.16.603405
-    text: Preprint
-  - type: source
-    link: https://github.com/batmen-lab/SGPvalue
-    text: Code
-  - type: docs
-    link: https://docs.google.com/presentation/d/1saZXhnHtHQxpGcRq-Ri02duj0Dk8I9vc
-    text: Slides
-  tags:
-  - Bioinformatics
-  - Computational Genomics
-  image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.11.04.565596
   title: 'MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks'
   authors:
@@ -133,9 +86,8 @@
   date: '2023-10-06'
   link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
   extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
-    text: Preprint
+  - link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+    text: Paper
   - type: source
     link: https://github.com/batmen-lab/SONATA
     text: Code
@@ -150,20 +102,65 @@
   - Computational Genomics
   - Multi-omics Integration
   image: images/tools/biorxiv.png
+- id: url:https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
+  title: 'PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation'
+  authors:
+  - Y Jiang
+  - D Liao
+  - Q Zhu
+  - <b>YY Lu#</b>
+  publisher: Oxford University Press
+  date: '2025-01-12'
+  link: https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
+  extra-links:
+  - link: https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
+    text: Paper
+  - type: source
+    link: https://github.com/batmen-lab/phylomix
+    text: Code
+  - type: data
+    link: https://drive.google.com/drive/folders/1fAzZKaI7mMx0xZGI7dOwEfCa1gRNkmCm
+    text: Datasets
+  tags:
+  - Computational Microbiomics
+  - Data Augmentation
+  image: images/tools/bioinfo_phylomix.jpg
+- id: url:https://academic.oup.com/bioinformatics/article/40/12/btae729/7916501
+  title: 'A BLAST from the past: revisiting BLAST E-value'
+  authors:
+  - <b>YY Lu</b>
+  - WS Noble
+  - U Keich
+  publisher: Oxford University Press
+  date: '2024-12-04'
+  link: https://academic.oup.com/bioinformatics/article/40/12/btae729/7916501
+  extra-links:
+  - link: https://academic.oup.com/bioinformatics/article/40/12/btae729/7916501
+    text: Paper
+  - type: source
+    link: https://github.com/batmen-lab/SGPvalue
+    text: Code
+  - type: docs
+    link: https://docs.google.com/presentation/d/1saZXhnHtHQxpGcRq-Ri02duj0Dk8I9vc
+    text: Slides
+  tags:
+  - Bioinformatics
+  - Computational Genomics
+  image: images/tools/bioinfo_sgpvalue.jpg
 - id: url:https://arxiv.org/abs/2309.15319
   title: 'DeepROCK: Error-controlled interaction detection in deep neural networks'
   authors:
   - W Chen
   - WS Noble#
   - <b>YY Lu#</b>
-  publisher: arXiv 
-  date: '2023-09-27'
+  publisher: Proceedings of International Conference on Neural Information Processing
+    Systems (NeurIPS) 
+  date: '2024-12-15'
   link: https://arxiv.org/abs/2309.15319
-  image: images/tools/arxiv.jpg
+  image: images/tools/neurips.png
   extra-links:
-  - type: preprint
-    link: https://arxiv.org/abs/2309.15319
-    text: Preprint
+  - link: https://arxiv.org/abs/2309.15319
+    text: Paper
   - type: source
     link: https://github.com/batmen-lab/DeepROCK
     text: Code
