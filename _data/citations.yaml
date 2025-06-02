@@ -1,89 +1,13 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
-- id: url:https://arxiv.org/abs/2408.17016
-  title: 'Error-controlled non-additive interaction discovery in machine learning models'
-  authors:
-  - W Chen*
-  - Y Jiang*
-  - WS Noble
-  - <b>YY Lu#</b>
-  publisher: arXiv 
-  date: '2024-08-30'
-  link: https://arxiv.org/abs/2408.17016
-  image: images/tools/arxiv.jpg
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/abs/2408.17016
-    text: Preprint
-  - type: source
-    link: https://github.com/batmen-lab/diamond
-    text: Code
-  - type: docs
-    link: https://docs.google.com/presentation/d/1icJwDJ1XguvILXHT9zFkOemyu1RIEhPm
-    text: Slides
-  tags:
-  - Error-controlled Machine Learning
-  - Hypothesis Generation
-- id: url:https://www.biorxiv.org/content/10.1101/2023.11.04.565596
-  title: 'MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks'
-  authors:
-  - Y Jiang
-  - M Atton
-  - Q Zhu
-  - <b>YY Lu#</b>
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-05'
-  link: https://www.biorxiv.org/content/10.1101/2023.11.04.565596
-  extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2023.11.04.565596
-    text: Preprint
-  - type: source
-    link: https://github.com/batmen-lab/MIOSTONE
-    text: Code
-  - type: data
-    link: https://github.com/batmen-lab/MIOSTONE/tree/main/data
-    text: Datasets
-  - type: docs
-    link: https://docs.google.com/presentation/d/1SXiFt3EP5TFiEC4GLADmdmjBmb-RfxtE
-    text: Slides
-  tags:
-  - Computational Microbiomics
-  image: images/tools/biorxiv.png
-- id: url:https://www.biorxiv.org/content/10.1101/2023.10.29.564479
-  title: 'BioMANIA: Simplifying bioinformatics data analysis through conversation'
-  authors:
-  - Z Dong
-  - V Zhong
-  - <b>YY Lu#</b>
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-01'
-  link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
-  extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
-    text: Preprint
-  - type: source
-    link: https://github.com/batmen-lab/BioMANIA
-    text: Code
-  - type: docs
-    link: https://drive.google.com/file/d/1tTQ76Rk-Rj1B7uzRr_bFpsNdzhq3Ffa6
-    text: Poster
-  - type: docs
-    link: https://biomania.ngrok.io/en
-    text: Demo
-  tags:
-  - Large Language Model
-  - Bioinformatics
-  image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
   title: 'SONATA: Disambiguated manifold alignment of single-cell data'
   authors:
   - H Zhou
   - K Cao
   - <b>YY Lu#</b>
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-06'
+  publisher: Bioinformatics (Accepted)
+  date: '2025-06-02'
   link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
   extra-links:
   - link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
@@ -101,6 +25,82 @@
   - Error-controlled Machine Learning
   - Computational Genomics
   - Multi-omics Integration
+  image: images/tools/bioinfo_phylomix.jpg
+- id: url:https://arxiv.org/abs/2408.17016
+  title: 'Error-controlled non-additive interaction discovery in machine learning models'
+  authors:
+  - W Chen*
+  - Y Jiang*
+  - WS Noble
+  - <b>YY Lu#</b>
+  publisher: Nature Machine Intelligence (Accepted)
+  date: '2025-02-27'
+  link: https://arxiv.org/abs/2408.17016
+  image: images/tools/nmi.png
+  extra-links:
+  - link: https://arxiv.org/abs/2408.17016
+    text: Paper
+  - type: source
+    link: https://github.com/batmen-lab/diamond
+    text: Code
+  - type: docs
+    link: https://docs.google.com/presentation/d/1icJwDJ1XguvILXHT9zFkOemyu1RIEhPm
+    text: Slides
+  tags:
+  - Error-controlled Machine Learning
+  - Hypothesis Generation
+- id: url:https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02080-3
+  title: 'MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks'
+  authors:
+  - Y Jiang
+  - M Atton
+  - Q Zhu
+  - <b>YY Lu#</b>
+  publisher: Microbiome
+  date: '2025-03-29'
+  link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02080-3
+  extra-links:
+  - link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02080-3
+    text: Paper
+  - type: source
+    link: https://github.com/batmen-lab/MIOSTONE
+    text: Code
+  - type: data
+    link: https://github.com/batmen-lab/MIOSTONE/tree/main/data
+    text: Datasets
+  - type: docs
+    link: https://docs.google.com/presentation/d/1SXiFt3EP5TFiEC4GLADmdmjBmb-RfxtE
+    text: Slides
+  tags:
+  - Computational Microbiomics
+  image: images/tools/microbiome.png
+- id: url:https://www.biorxiv.org/content/10.1101/2023.10.29.564479
+  title: 'BioMANIA: Simplifying bioinformatics data analysis through conversation'
+  authors:
+  - Z Dong
+  - H Zhou
+  - Y Jiang
+  - V Zhong
+  - <b>YY Lu#</b>
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-01'
+  link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.10.29.564479
+    text: Preprint
+  - type: source
+    link: https://github.com/batmen-lab/BioMANIA
+    text: Code
+  - type: docs
+    link: https://drive.google.com/file/d/1MgOpyoTvd2aXX-awHISVkRp1PZq06-_B/
+    text: Poster
+  - type: docs
+    link: https://biomania.ngrok.io/en
+    text: Demo
+  tags:
+  - Large Language Model
+  - Bioinformatics
   image: images/tools/biorxiv.png
 - id: url:https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
   title: 'PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation'
@@ -109,7 +109,7 @@
   - D Liao
   - Q Zhu
   - <b>YY Lu#</b>
-  publisher: Oxford University Press
+  publisher: Bioinformatics
   date: '2025-01-12'
   link: https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
   extra-links:
@@ -131,7 +131,7 @@
   - <b>YY Lu</b>
   - WS Noble
   - U Keich
-  publisher: Oxford University Press
+  publisher: Bioinformatics
   date: '2024-12-04'
   link: https://academic.oup.com/bioinformatics/article/40/12/btae729/7916501
   extra-links:
@@ -153,8 +153,7 @@
   - W Chen
   - WS Noble#
   - <b>YY Lu#</b>
-  publisher: Proceedings of International Conference on Neural Information Processing
-    Systems (NeurIPS) 
+  publisher: NeurIPS Intepretable AI Workshop
   date: '2024-12-15'
   link: https://arxiv.org/abs/2309.15319
   image: images/tools/neurips.png
