@@ -7,15 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Cheriton School of Computer Science](https://cs.uwaterloo.ca), at the [University of Waterloo](https://uwaterloo.ca/).
+Our lab will be moving to [University of Wisconsin-Madison](https://www.wisc.edu).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="yanglu@uwaterloo.ca"
+  text="ylu97@wisc.edu"
   tooltip=""
-  link="yanglu@uwaterloo.ca"
+  link="ylu97@wisc.edu"
   style="button"
 %}
 {%
@@ -24,7 +24,7 @@ Our lab is part of the [Cheriton School of Computer Science](https://cs.uwaterlo
   icon=""
   text="Departmental Address"
   tooltip="Our location for easy navigation"
-  link="https://cs.uwaterloo.ca/about/visit-us"
+  link="https://g.co/kgs/XUcVnU8"
   style="button"
 %}
 {:.center}
@@ -33,23 +33,21 @@ Our lab is part of the [Cheriton School of Computer Science](https://cs.uwaterlo
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-200 University Avenue West
-Waterloo, ON N2L 3G1
-Canada
+Engineering Centers Building, 1550 Engineering Dr, Madison, WI 53706
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="https://cs.uwaterloo.ca/sites/ca.computer-science/files/resize/uploads/images/davis-centre-1500_0-750x370.jpg"
-  caption="Cheriton School of Computer Science"
+  image="images/department.jpg"
+  caption="Department"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="https://d3hk6w1rfu80ox.cloudfront.net/media/uploads/listings/university-of-waterloo/JwJwVyU5OXer.jpg"
-  caption="University of Waterloo"
+  image="images/campus.jpg"
+  caption="Campus"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}

@@ -11,7 +11,7 @@ image: images/team/yang-lu.jpg
 role: pi
 links:
   orcid: 0000-0003-1686-5917
-  email: yanglu@uwaterloo.ca
+  email: ylu97@wisc.edu
   google-scholar: C4CLJQgAAAAJ
   resume: files/cv_yanglu.pdf
 ---
