@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
+- id: url:https://www.biorxiv.org/content/10.1101/2025.04.22.650035
+  title: 'Programmatic design and editing of cis-regulatory elements'
+  authors:
+  - J Schreiber
+  - FK Lorbeer
+  - M Heinzl
+  - <b>YY Lu</b>
+  - A Stark
+  - WS Noble
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-23'
+  link: https://www.biorxiv.org/content/10.1101/2025.04.22.650035
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2025.04.22.650035
+    text: Preprint
+  tags:
+  - Computational Genomics
+  image: images/tools/biorxiv.png
+- id: url:https://www.biorxiv.org/content/10.1101/2025.04.01.646675
+  title: 'Fast and memory efficient searching of large-scale mass spectrometry data using Tide'
+  authors:
+  - A Kertesz-Farkas
+  - FLA Acquaye
+  - V Ostapenko
+  - RH Locon
+  - <b>YY Lu</b>
+  - CE Grant
+  - WS Noble
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-07'
+  link: https://www.biorxiv.org/content/10.1101/2025.04.01.646675
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2025.04.01.646675
+    text: Preprint
+  tags:
+  - Computational Proteomics
+  image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
   title: 'SONATA: Disambiguated manifold alignment of single-cell data'
   authors:
@@ -65,12 +104,12 @@
   - type: source
     link: https://github.com/batmen-lab/MIOSTONE
     text: Code
-  - type: data
-    link: https://github.com/batmen-lab/MIOSTONE/tree/main/data
-    text: Datasets
   - type: docs
     link: https://docs.google.com/presentation/d/1SXiFt3EP5TFiEC4GLADmdmjBmb-RfxtE
     text: Slides
+  - type: data
+    link: https://github.com/batmen-lab/MIOSTONE/tree/main/data
+    text: Datasets
   tags:
   - Computational Microbiomics
   image: images/tools/microbiome.png
@@ -430,7 +469,7 @@
     text: Code
   tags:
   - Computational Microbiomics
-- id: doi:10.1101/2023.02.22.529597
+- id: https://aclanthology.org/2024.emnlp-main.104/
   title: Retrieved Sequence Augmentation for Protein Representation Learning
   authors:
   - C Ma
@@ -443,16 +482,16 @@
   - <b>YY Lu</b>
   - Q Liu
   - L Kong
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-23'
-  link: https://www.biorxiv.org/content/10.1101/2023.02.22.529597
+  publisher: Empirical Methods in Natural Language Processing(EMNLP)
+  date: '2024-11-12'
+  link: https://aclanthology.org/2024.emnlp-main.104/
   extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2023.02.22.529597
-    text: Preprint
+  - link: https://www.biorxiv.org/content/10.1101/2023.02.22.529597
+    text: Paper
   tags:
   - Computational Proteomics
-  image: images/tools/biorxiv.png
+  - Large Language Model
+  image: images/tools/emnlp24.png
 - id: doi:10.1021/acs.jproteome.2c00615
   title: The Crux toolkit for analysis of bottom-up tandem mass spectrometry proteomics data
   authors:
