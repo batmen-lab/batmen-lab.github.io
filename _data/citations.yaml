@@ -393,8 +393,7 @@
   - Error-controlled Machine Learning
   - Hypothesis Generation
 - id: url:https://www.proquest.com/openview/d28742f789e37325baa466d61bd8f0d0/1
-  title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management,
-    and Visualization'
+  title: 'Big Data Analytics in Metagenomics: Integration, Representation, Management, and Visualization'
   authors:
   - <b>YY Lu</b>
   publisher: Doctoral Thesis, University of Southern California
@@ -408,8 +407,7 @@
   - Computational Genomics
   - Computational Microbiomics
 - id: doi:10.1093/nar/gkx767
-  title: Towards enhanced and interpretable clustering/classification in integrative
-    genomics
+  title: 'Towards enhanced and interpretable clustering/classification in integrative genomics'
   authors:
   - <b>YY Lu</b>
   - J Lv
@@ -470,7 +468,7 @@
   tags:
   - Computational Microbiomics
 - id: https://aclanthology.org/2024.emnlp-main.104/
-  title: Retrieved Sequence Augmentation for Protein Representation Learning
+  title: 'Retrieved Sequence Augmentation for Protein Representation Learning'
   authors:
   - C Ma
   - H Zhao
@@ -482,16 +480,33 @@
   - <b>YY Lu</b>
   - Q Liu
   - L Kong
-  publisher: Empirical Methods in Natural Language Processing(EMNLP)
+  publisher: Empirical Methods in Natural Language Processing (EMNLP)
   date: '2024-11-12'
-  link: https://aclanthology.org/2024.emnlp-main.104/
+  link: https://aclanthology.org/2024.emnlp-main.104
   extra-links:
-  - link: https://www.biorxiv.org/content/10.1101/2023.02.22.529597
+  - link: ttps://aclanthology.org/2024.emnlp-main.104
     text: Paper
   tags:
   - Computational Proteomics
   - Large Language Model
   image: images/tools/emnlp24.png
+- id: https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2023.1305506
+  title: 'Leveraging machine learning for taxonomic classification of emerging astroviruses'
+  authors:
+  - F Alipour
+  - C Holmes
+  - <b>YY Lu</b>
+  - KA Hill
+  - L Kari
+  publisher: Frontiers in Molecular Biosciences
+  date: '2024-01-10'
+  link: https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2023.1305506
+  extra-links:
+  - link: https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2023.1305506
+    text: Paper
+  tags:
+  - Computational Genomics
+  image: images/tools/frontiers.png
 - id: doi:10.1021/acs.jproteome.2c00615
   title: The Crux toolkit for analysis of bottom-up tandem mass spectrometry proteomics data
   authors:
