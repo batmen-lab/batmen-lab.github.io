@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab will be moving to the [University of Wisconsin-Madison](https://www.wisc.edu).
+Our lab will be moving to the [Department of Biomedical Engineering](https://engineering.wisc.edu/departments/biomedical-engineering) and [Department of Biostatistics and Medical Informatics](https://biostat.wiscweb.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu).
 
 {%
   include link.html

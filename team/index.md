@@ -51,6 +51,8 @@ Our work is supported by
 
 {%
   include gallery.html
+  image1="images/nserc.png"
+  link1="https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp"
+  tooltip1="NSERC Discovery Grant"
   style="square"
-
 %}

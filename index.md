@@ -4,7 +4,7 @@ title: Home
 
 # BATMEN Lab
 
-Welcome to the BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab headed by Dr. Yang Lu! BATMEN is a research laboratory based at the [Department of Biomedical Engineering](https://engineering.wisc.edu/departments/biomedical-engineering) and [Department of Biostatistics and Medical Informatics](https://biostat.wiscweb.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu).
+Welcome to the BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab headed by Dr. Yang Lu! BATMEN is a research laboratory based at the [University of Wisconsin-Madison](https://www.wisc.edu).
 <br>
 
 <b>Research synopsis: </b>
