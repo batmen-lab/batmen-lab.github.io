@@ -40,7 +40,7 @@
   - Computational Proteomics
   image: images/tools/biorxiv.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
-  title: 'SONATA: Disambiguated manifold alignment of single-cell data'
+  title: 'Securing diagonal integration of multimodal single-cell data against ambiguous mapping'
   authors:
   - H Zhou
   - K Cao
@@ -209,7 +209,7 @@
   - Error-controlled Machine Learning
   - Hypothesis Generation
 - id: doi:10.1038/s41592-021-01259-4
-  title: A wider field of view to predict expression
+  title: 'A wider field of view to predict expression'
   authors:
   - <b>YY Lu</b>
   - WS Noble
@@ -294,8 +294,7 @@
   - Interpretable Machine Learning
   - Computational Genomics
 - id: doi:10.1093/bioinformatics/btab284
-  title: 'DIAmeter: matching peptides to data-independent acquisition mass spectrometry
-    data'
+  title: 'DIAmeter: matching peptides to data-independent acquisition mass spectrometry data'
   authors:
   - <b>YY Lu</b>
   - J Bilmes
@@ -448,8 +447,7 @@
   tags:
   - Computational Genomics
 - id: doi:10.1093/bioinformatics/btw290
-  title: 'COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge,
-    CO-alignment and paired-end read LinkAge'
+  title: 'COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge'
   authors:
   - <b>YY Lu</b>
   - T Chen
@@ -533,8 +531,7 @@
   - Mass Spectrometry
   image: images/tools/jpr_crux.jpg
 - id: doi:10.1101/2022.04.06.487405
-  title: Proteome-wide identification of amino acid substitutions deleterious for
-    protein function
+  title: 'Proteome-wide identification of amino acid substitutions deleterious for protein function'
   authors:
   - RA Rodriguez-Mias
   - KN Hess
@@ -558,8 +555,7 @@
   - Mass Spectrometry
   image: images/tools/biorxiv.png
 - id: doi:10.1021/acs.jproteome.2c00211
-  title: Reducing peptide sequence bias in quantitative mass spectrometry data with
-    machine learning
+  title: 'Reducing peptide sequence bias in quantitative mass spectrometry data with machine learning'
   authors:
   - AB Dincer
   - <b>YY Lu</b>
@@ -597,8 +593,7 @@
   tags:
   - Computational Microbiomics
 - id: doi:10.1371/journal.pcbi.1007329
-  title: Predicting gene expression in the human malaria parasite Plasmodium falciparum
-    using histone modification, nucleosome positioning, and 3D localization features
+  title: 'Predicting gene expression in the human malaria parasite Plasmodium falciparum using histone modification, nucleosome positioning, and 3D localization features'
   authors:
   - DF Read
   - K Cook
@@ -615,8 +610,7 @@
   tags:
   - Computational Genomics
 - id: doi:10.1021/acs.jproteome.8b00365
-  title: Joint Precursor Elution Profile Inference via Regression for Peptide Detection
-    in Data-Independent Acquisition Mass Spectra
+  title: 'Joint Precursor Elution Profile Inference via Regression for Peptide Detection in Data-Independent Acquisition Mass Spectra'
   authors:
   - A Hu
   - <b>YY Lu</b>
@@ -636,7 +630,7 @@
   - Computational Proteomics
   - Mass Spectrometry
 - id: doi:10.1146/annurev-biodatasci-080917-013431
-  title: Alignment-Free Sequence Analysis and Applications
+  title: 'Alignment-Free Sequence Analysis and Applications'
   authors:
   - J Ren
   - X Bai
@@ -655,8 +649,7 @@
   tags:
   - Computational Genomics
 - id: doi:10.3389/fmicb.2018.00711
-  title: Background Adjusted Alignment-Free Dissimilarity Measures Improve the Detection
-    of Horizontal Gene Transfer
+  title: 'Background Adjusted Alignment-Free Dissimilarity Measures Improve the Detection of Horizontal Gene Transfer'
   authors:
   - K Tang
   - <b>YY Lu</b>
@@ -672,8 +665,7 @@
   - Computational Genomics
   - Computational Microbiomics
 - id: doi:10.1186/s12859-017-1835-1
-  title: Improving contig binning of metagenomic data using $$ {d}_2^S $$ oligonucleotide
-    frequency dissimilarity
+  title: 'Improving contig binning of metagenomic data using $$ {d}_2^S $$ oligonucleotide frequency dissimilarity'
   authors:
   - Y Wang
   - K Wang
@@ -689,8 +681,7 @@
   tags:
   - Computational Microbiomics
 - id: doi:10.1186/s40168-017-0283-5
-  title: 'VirFinder: a novel k-mer based tool for identifying viral sequences from
-    assembled metagenomic data'
+  title: 'VirFinder: a novel k-mer based tool for identifying viral sequences from assembled metagenomic data'
   authors:
   - J Ren
   - NA Ahlgren
