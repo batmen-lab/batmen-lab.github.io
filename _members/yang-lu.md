@@ -16,5 +16,5 @@ links:
   resume: files/cv_yanglu.pdf
 ---
 
-Before starting my own lab, I was a postdoctoral fellow at the [Noble Research Lab](https://noble.gs.washington.edu) at the [University of Washington](http://www.washington.edu). I earned my Ph.D. in Computational Biology and Bioinformatics from the  [University of Southern California](http://www.usc.edu). Before that, I received my M.S. and B.S. degrees in Computer Science and Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn).
+Yang Lu is an incoming assistant professor at the University of Wisconsin-Madison. He was an assistant professor at University of Waterloo. Prior to that, he was a postdoctoral researcher in Prof. William Noble's group at the University of Washington.He obtained his Ph.D. in Computational Biology and Bioinformatics under the supervision of Prof. Fengzhu Sun from University of Southern California. Before moving to the United States, he received M.S. and B.S. degrees in Computer Science and Engineering from Shanghai Jiao Tong University. Yang Lu's research focuses on developing machine learning and statistical methods for genomics and proteomics data analysis. He is particularly interested in developing interpretation methods to find scientifically interesting and statistically confident hypotheses from complex biological data.
 

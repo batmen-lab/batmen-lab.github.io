@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab will be moving to [University of Wisconsin-Madison](https://www.wisc.edu).
+Our lab will be moving to the [University of Wisconsin-Madison](https://www.wisc.edu).
 
 {%
   include link.html

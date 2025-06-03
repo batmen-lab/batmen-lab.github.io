@@ -3,15 +3,15 @@
 # site properties and page defaults
 title: BATMEN Lab 
 subtitle: Where Biology Meets Trustworthy AI
-description: BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab @ UWaterloo CS
-logo: images/logo.svg
+description: BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab @ UW-Madison
+logo: images/logo_trans.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
 
 # site social media and other links
 links:
-  email: yanglu@uwaterloo.ca
+  email: ylu97@wisc.edu
   google-scholar: C4CLJQgAAAAJ
   github: batmen-lab
 
