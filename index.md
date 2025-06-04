@@ -4,7 +4,7 @@ title: Home
 
 # BATMEN Lab
 
-Welcome to the BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab headed by Dr. Yang Lu! BATMEN is a research laboratory based at the [University of Wisconsin-Madison](https://www.wisc.edu).
+Welcome to the BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab headed by Dr. Yang Lu! 
 <br>
 
 <b>Research synopsis: </b>
