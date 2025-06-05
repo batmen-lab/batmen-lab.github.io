@@ -15,18 +15,18 @@ We will be moving to the [Department of Biomedical Engineering](https://engineer
   include link.html
   type="email"
   icon=""
-  text="ylu97@wisc.edu"
+  text="yanglu@uwaterloo.ca"
   tooltip=""
-  link="ylu97@wisc.edu"
+  link="yanglu@uwaterloo.ca"
   style="button"
 %}
 {%
   include link.html
-  type="address"
+  type="email"
   icon=""
-  text="Departmental Address"
-  tooltip="Our location for easy navigation"
-  link="https://g.co/kgs/XUcVnU8"
+  text="ylu97@wisc.edu"
+  tooltip=""
+  link="ylu97@wisc.edu"
   style="button"
 %}
 {:.center}
