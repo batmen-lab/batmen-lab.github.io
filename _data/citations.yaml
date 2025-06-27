@@ -144,8 +144,8 @@
 - id: url:https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
   title: 'PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation'
   authors:
-  - Y Jiang
-  - D Liao
+  - Y Jiang*
+  - D Liao*
   - Q Zhu
   - <b>YY Lu#</b>
   publisher: Bioinformatics
