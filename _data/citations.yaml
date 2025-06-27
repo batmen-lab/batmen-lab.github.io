@@ -39,17 +39,17 @@
   tags:
   - Computational Proteomics
   image: images/tools/biorxiv.png
-- id: url:https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+- id: url:https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf345/8162456
   title: 'Securing diagonal integration of multimodal single-cell data against ambiguous mapping'
   authors:
   - H Zhou
   - K Cao
   - <b>YY Lu#</b>
-  publisher: Bioinformatics (Accepted)
-  date: '2025-06-02'
-  link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+  publisher: Bioinformatics
+  date: '2025-06-14'
+  link: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf345/8162456
   extra-links:
-  - link: https://www.biorxiv.org/content/10.1101/2023.10.05.561049
+  - link: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf345/8162456
     text: Paper
   - type: source
     link: https://github.com/batmen-lab/SONATA
@@ -73,7 +73,7 @@
   - WS Noble
   - <b>YY Lu#</b>
   publisher: Nature Machine Intelligence (Accepted)
-  date: '2025-02-27'
+  date: '2025-06-25'
   link: https://arxiv.org/abs/2408.17016
   image: images/tools/nmi.png
   extra-links:

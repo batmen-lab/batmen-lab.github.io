@@ -9,7 +9,7 @@ nav:
 
 We make our research visible to both the computational biology and machine learning community. See the overview of our research and recent publications below.
 
-{% include banner.html image="images/research_flow.png" %}
+{% include banner.html image="images/research_overview.jpg" %}
 
 {% include section.html %}
 
