@@ -7,10 +7,12 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is currently affiliated with [Cheriton School of Computer Science](https://cs.uwaterloo.ca) at the [University of Waterloo](https://uwaterloo.ca/). 
+Our lab is currently affiliated with the [Department of Biomedical Engineering](https://engineering.wisc.edu/departments/biomedical-engineering) and [Department of Biostatistics and Medical Informatics](https://biostat.wiscweb.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu). 
 
-We will be moving to the [Department of Biomedical Engineering](https://engineering.wisc.edu/departments/biomedical-engineering) and [Department of Biostatistics and Medical Informatics](https://biostat.wiscweb.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu). :)
 
+Our lab was previously affiliated with [Cheriton School of Computer Science](https://cs.uwaterloo.ca) at the [University of Waterloo](https://uwaterloo.ca/). 
+
+We will be moving to 
 {%
   include link.html
   type="email"

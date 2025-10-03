@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
+- id: https://arxiv.org/abs/2510.02297
+  title: 'Interactive Training: Feedback-Driven Neural Network Optimization'
+  authors:
+  - W Zhang
+  - <b>YY Lu</b>
+  - Y Deng
+  publisher: Empirical Methods in Natural Language Processing (System Demonstration Track)
+  date: '2025-10-02'
+  link: https://arxiv.org/abs/2510.02297
+  extra-links:
+  - link: https://arxiv.org/abs/2510.02297
+    text: Paper
+  - type: source
+    link: https://github.com/yuntian-group/interactive-training
+    text: Code
+  - type: docs
+    link: https://interactivetraining.ai
+    text: Demo
+  tags:
+  - Large Language Model
+  image: images/tools/emnlp25.jpg
 - id: url:https://www.biorxiv.org/content/10.1101/2025.04.22.650035
   title: 'Programmatic design and editing of cis-regulatory elements'
   authors:
@@ -19,7 +40,7 @@
   tags:
   - Computational Genomics
   image: images/tools/biorxiv.png
-- id: url:https://www.biorxiv.org/content/10.1101/2025.04.01.646675
+- id: url:https://pubs.acs.org/toc/jprobs/24/9
   title: 'Fast and memory efficient searching of large-scale mass spectrometry data using Tide'
   authors:
   - A Kertesz-Farkas
@@ -29,16 +50,18 @@
   - <b>YY Lu</b>
   - CE Grant
   - WS Noble
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-04-07'
-  link: https://www.biorxiv.org/content/10.1101/2025.04.01.646675
+  publisher: Journal of Proteome Research
+  date: '2025-08-12'
+  link: https://pubs.acs.org/toc/jprobs/24/9
   extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2025.04.01.646675
-    text: Preprint
+  - link: https://pubs.acs.org/toc/jprobs/24/9
+    text: Paper
+  - type: source
+    link: https://github.com/crux-toolkit/crux-toolkit
+    text: Code
   tags:
   - Computational Proteomics
-  image: images/tools/biorxiv.png
+  image: images/tools/jpr_tide.jpg
 - id: url:https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf345/8162456
   title: 'Securing diagonal integration of multimodal single-cell data against ambiguous mapping'
   authors:
@@ -65,19 +88,19 @@
   - Computational Genomics
   - Multi-omics Integration
   image: images/tools/bioinfo_phylomix.jpg
-- id: url:https://arxiv.org/abs/2408.17016
+- id: url:https://www.nature.com/articles/s42256-025-01086-8
   title: 'Error-controlled non-additive interaction discovery in machine learning models'
   authors:
   - W Chen*
   - Y Jiang*
   - WS Noble
   - <b>YY Lu#</b>
-  publisher: Nature Machine Intelligence (Accepted)
-  date: '2025-06-25'
-  link: https://arxiv.org/abs/2408.17016
+  publisher: Nature Machine Intelligence
+  date: '2025-09-22'
+  link: https://www.nature.com/articles/s42256-025-01086-8
   image: images/tools/nmi.png
   extra-links:
-  - link: https://arxiv.org/abs/2408.17016
+  - link: https://www.nature.com/articles/s42256-025-01086-8
     text: Paper
   - type: source
     link: https://github.com/batmen-lab/diamond
