@@ -12,16 +12,7 @@ Our lab is currently affiliated with the [Department of Biomedical Engineering](
 
 Our lab was previously affiliated with [Cheriton School of Computer Science](https://cs.uwaterloo.ca) at the [University of Waterloo](https://uwaterloo.ca/). 
 
-We will be moving to 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="yanglu@uwaterloo.ca"
-  tooltip=""
-  link="yanglu@uwaterloo.ca"
-  style="button"
-%}
+Please contact:
 {%
   include link.html
   type="email"
