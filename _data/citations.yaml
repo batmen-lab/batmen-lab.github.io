@@ -134,7 +134,7 @@
     link: https://github.com/batmen-lab/MIOSTONE/tree/main/data
     text: Datasets
   tags:
-  - Computational Genomics
+  - Computational Microbiomics
   image: images/tools/microbiome.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.29.564479
   title: 'BioMANIA: Simplifying bioinformatics data analysis through conversation'
@@ -184,7 +184,7 @@
     link: https://drive.google.com/drive/folders/1fAzZKaI7mMx0xZGI7dOwEfCa1gRNkmCm
     text: Datasets
   tags:
-  - Computational Genomics
+  - Computational Microbiomics
   - Data Augmentation
   image: images/tools/bioinfo_phylomix.jpg
 - id: url:https://academic.oup.com/bioinformatics/article/40/12/btae729/7916501
@@ -206,6 +206,7 @@
     link: https://docs.google.com/presentation/d/1saZXhnHtHQxpGcRq-Ri02duj0Dk8I9vc
     text: Slides
   tags:
+  - Bioinformatics
   - Computational Genomics
   image: images/tools/bioinfo_sgpvalue.jpg
 - id: url:https://arxiv.org/abs/2309.15319
@@ -341,6 +342,7 @@
     text: Datasets
   tags:
   - Computational Proteomics
+  - Mass Spectrometry
 - id: doi:10.1093/bioinformatics/btaa699
   title: 'CRAFT: Compact genome Representation toward large-scale Alignment-Free daTabase'
   authors:
@@ -425,6 +427,7 @@
     text: Thesis
   tags:
   - Computational Genomics
+  - Computational Microbiomics
 - id: doi:10.1093/nar/gkx767
   title: 'Towards enhanced and interpretable clustering/classification in integrative genomics'
   authors:
@@ -484,7 +487,7 @@
     link: https://github.com/younglululu/COCACOLA
     text: Code
   tags:
-  - Computational Genomics
+  - Computational Microbiomics
 - id: https://aclanthology.org/2024.emnlp-main.104/
   title: 'Retrieved Sequence Augmentation for Protein Representation Learning'
   authors:
@@ -548,6 +551,7 @@
     text: Paper
   tags:
   - Computational Proteomics
+  - Mass Spectrometry
   image: images/tools/jpr_crux.jpg
 - id: doi:10.1101/2022.04.06.487405
   title: 'Proteome-wide identification of amino acid substitutions deleterious for protein function'
@@ -571,6 +575,7 @@
     text: Preprint
   tags:
   - Computational Proteomics
+  - Mass Spectrometry
   image: images/tools/biorxiv.png
 - id: doi:10.1021/acs.jproteome.2c00211
   title: 'Reducing peptide sequence bias in quantitative mass spectrometry data with machine learning'
@@ -592,6 +597,7 @@
     text: Code
   tags:
   - Computational Proteomics
+  - Mass Spectrometry
 - id: doi:10.1093/bioinformatics/btz253
   title: 'SolidBin: improving metagenome binning with semi-supervised normalized cut'
   authors:
@@ -608,7 +614,7 @@
   - link: https://academic.oup.com/bioinformatics/article/35/21/4229/5448864
     text: Paper
   tags:
-  - Computational Genomics
+  - Computational Microbiomics
 - id: doi:10.1371/journal.pcbi.1007329
   title: 'Predicting gene expression in the human malaria parasite Plasmodium falciparum using histone modification, nucleosome positioning, and 3D localization features'
   authors:
@@ -645,6 +651,7 @@
     text: Code
   tags:
   - Computational Proteomics
+  - Mass Spectrometry
 - id: doi:10.1146/annurev-biodatasci-080917-013431
   title: 'Alignment-Free Sequence Analysis and Applications'
   authors:
@@ -679,6 +686,7 @@
     text: Paper
   tags:
   - Computational Genomics
+  - Computational Microbiomics
 - id: doi:10.1186/s12859-017-1835-1
   title: 'Improving contig binning of metagenomic data using $$ {d}_2^S $$ oligonucleotide frequency dissimilarity'
   authors:
@@ -694,7 +702,7 @@
   - link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1835-1
     text: Paper
   tags:
-  - Computational Genomics
+  - Computational Microbiomics
 - id: doi:10.1186/s40168-017-0283-5
   title: 'VirFinder: a novel k-mer based tool for identifying viral sequences from assembled metagenomic data'
   authors:
@@ -711,7 +719,7 @@
   - link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0283-5
     text: Paper
   tags:
-  - Computational Genomics
+  - Computational Microbiomics
 - id: doi:10.1093/nar/gkw1002
   title: Alignment-free $d_2^*$ oligonucleotide frequency dissimilarity measure improves
     prediction of hosts from metagenomically-derived viral sequences
@@ -730,3 +738,4 @@
     text: Paper
   tags:
   - Computational Genomics
+  - Computational Microbiomics
