@@ -1,5 +1,70 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
+- id: url:https://www.biorxiv.org/content/10.64898/2026.04.26.720921
+  title: 'Diagnosing protein sequence search in the era of language models'
+  authors:
+  - H Zhou
+  - Y Yang
+  - <b>YY Lu#</b>
+  publisher: Cold Spring Harbor Laboratory
+  date: '2026-04-29'
+  link: https://www.biorxiv.org/content/10.64898/2026.04.26.720921
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.64898/2026.04.26.720921
+    text: Preprint
+  tags:
+  - Computational Proteomics
+  - Protein Language Model
+  - Large Language Model
+  image: images/tools/biorxiv.png
+  image: images/tools/biorxiv.png
+- id: url:https://www.nature.com/articles/s41592-025-02981-z
+  title: 'Scikit-bio: a fundamental Python library for biological omic data analysis'
+  authors:
+  - M Atton
+  - D McDonald
+  - JC Alastuey
+  - R Azom
+  - P Batra
+  - V Bezshapkin
+  - E Bolyen
+  - A Cagle
+  - JG Caporaso
+  - JW Debelius
+  - K Gorlick
+  - N Hamsanipally
+  - L Hunger
+  - A Keluskar
+  - D Liao
+  - <b>YY Lu</b>
+  - JA Navas-Molina
+  - A Pitman
+  - JR Rideout
+  - A Sazonov
+  - B Sathappan
+  - KS Lipson
+  - I Sfiligoi
+  - C Tapo
+  - Y Vazquez-Baeza
+  - ZZ Xu
+  - MS Ye
+  - J Zhao
+  - R Knight
+  - JT Morton
+  - Q Zhu
+  publisher: Nature Methods
+  date: '2025-12-11'
+  link: https://www.nature.com/articles/s41592-025-02981-z
+  extra-links:
+  - link: https://www.nature.com/articles/s41592-025-02981-z
+    text: Paper
+  - type: source
+    link: https://github.com/scikit-bio/scikit-bio
+    text: Code
+  tags:
+  - Computational Genomics
+  image: images/tools/nmeth_scikitbio.png
 - id: https://arxiv.org/abs/2510.02297
   title: 'Interactive Training: Feedback-Driven Neural Network Optimization'
   authors:
@@ -134,7 +199,7 @@
     link: https://github.com/batmen-lab/MIOSTONE/tree/main/data
     text: Datasets
   tags:
-  - Computational Microbiomics
+  - Computational Genomics
   image: images/tools/microbiome.png
 - id: url:https://www.biorxiv.org/content/10.1101/2023.10.29.564479
   title: 'BioMANIA: Simplifying bioinformatics data analysis through conversation'
@@ -184,7 +249,7 @@
     link: https://drive.google.com/drive/folders/1fAzZKaI7mMx0xZGI7dOwEfCa1gRNkmCm
     text: Datasets
   tags:
-  - Computational Microbiomics
+  - Computational Genomics
   - Data Augmentation
   image: images/tools/bioinfo_phylomix.jpg
 - id: url:https://academic.oup.com/bioinformatics/article/40/12/btae729/7916501
@@ -427,7 +492,6 @@
     text: Thesis
   tags:
   - Computational Genomics
-  - Computational Microbiomics
 - id: doi:10.1093/nar/gkx767
   title: 'Towards enhanced and interpretable clustering/classification in integrative genomics'
   authors:
@@ -487,7 +551,7 @@
     link: https://github.com/younglululu/COCACOLA
     text: Code
   tags:
-  - Computational Microbiomics
+  - Computational Genomics
 - id: https://aclanthology.org/2024.emnlp-main.104/
   title: 'Retrieved Sequence Augmentation for Protein Representation Learning'
   authors:
@@ -614,7 +678,7 @@
   - link: https://academic.oup.com/bioinformatics/article/35/21/4229/5448864
     text: Paper
   tags:
-  - Computational Microbiomics
+  - Computational Genomics
 - id: doi:10.1371/journal.pcbi.1007329
   title: 'Predicting gene expression in the human malaria parasite Plasmodium falciparum using histone modification, nucleosome positioning, and 3D localization features'
   authors:
@@ -686,7 +750,6 @@
     text: Paper
   tags:
   - Computational Genomics
-  - Computational Microbiomics
 - id: doi:10.1186/s12859-017-1835-1
   title: 'Improving contig binning of metagenomic data using $$ {d}_2^S $$ oligonucleotide frequency dissimilarity'
   authors:
@@ -702,7 +765,7 @@
   - link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1835-1
     text: Paper
   tags:
-  - Computational Microbiomics
+  - Computational Genomics
 - id: doi:10.1186/s40168-017-0283-5
   title: 'VirFinder: a novel k-mer based tool for identifying viral sequences from assembled metagenomic data'
   authors:
@@ -719,7 +782,7 @@
   - link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0283-5
     text: Paper
   tags:
-  - Computational Microbiomics
+  - Computational Genomics
 - id: doi:10.1093/nar/gkw1002
   title: Alignment-free $d_2^*$ oligonucleotide frequency dissimilarity measure improves
     prediction of hosts from metagenomically-derived viral sequences
@@ -738,4 +801,3 @@
     text: Paper
   tags:
   - Computational Genomics
-  - Computational Microbiomics
