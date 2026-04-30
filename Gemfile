@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 # jekyll
-gem "jekyll", "~> 4.2"
+gem "jekyll", ">= 4.3.0"
+gem "liquid", ">= 4.0.4"
 gem "webrick", "~> 1.7"
 
 # plugins
