@@ -29,3 +29,5 @@ gem "eventmachine", "1.2.7", git: "git@github.com:eventmachine/eventmachine", ta
 
 gem "logger"
 gem "csv"
+gem "base64"
+
