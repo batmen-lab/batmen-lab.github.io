@@ -27,7 +27,3 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "eventmachine", "1.2.7", git: "git@github.com:eventmachine/eventmachine", tag: "v1.2.7" if Gem.win_platform? # https://github.com/oneclick/rubyinstaller2/issues/96
 
-gem "logger"
-gem "csv"
-ruby "3.2.2"
-
