@@ -13,11 +13,16 @@
   - type: preprint
     link: https://www.biorxiv.org/content/10.64898/2026.04.26.720921
     text: Preprint
+  - type: source
+    link: https://github.com/batmen-lab/PLMGuard
+    text: Code
+  - type: data
+    link: https://doi.org/10.5281/zenodo.19795993
+    text: Datasets
   tags:
   - Computational Proteomics
   - Protein Language Model
   - Large Language Model
-  image: images/tools/biorxiv.png
   image: images/tools/biorxiv.png
 - id: url:https://www.nature.com/articles/s41592-025-02981-z
   title: 'Scikit-bio: a fundamental Python library for biological omic data analysis'
