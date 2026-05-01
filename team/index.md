@@ -49,10 +49,11 @@ We are an interdisciplinary team of collaborative researchers with diverse skill
 Our work is supported by
 {:.center}
 
-{%
-  include gallery.html
-  image1="images/nserc.png"
-  link1="https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp"
-  tooltip1="NSERC Discovery Grant"
-  style="square"
+{% include gallery.html
+  image1="images/nvidia.jpg"
+  link1="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program//"
+  tooltip1="Nvidia Academic Award"
+  image2="images/google.png"
+  link2="https://research.google/programs-and-events/google-academic-research-awards//"
+  tooltip2="Google Research Award"
 %}
