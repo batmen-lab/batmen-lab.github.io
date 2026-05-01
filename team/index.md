@@ -53,7 +53,7 @@ Our work is supported by
   image1="images/nvidia.jpg"
   link1="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program//"
   tooltip1="Nvidia Academic Award"
-  image2="images/google.png"
+  image2="images/google.jpg"
   link2="https://research.google/programs-and-events/google-academic-research-awards//"
   tooltip2="Google Research Award"
 %}
